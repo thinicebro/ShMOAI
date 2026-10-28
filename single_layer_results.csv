@@ -1,0 +1,3929 @@
+name,time(s)
+Attention Block,47.625
+SelfOutput,0.500
+1st Bootstrapping,56.497
+LayerNorm1,0.629
+2nd Bootstrapping,54.424
+Intermediate Linear,17.047
+GELU,6.318
+Final Linear,2.110
+3rd Bootstrapping,57.366
+LayerNorm2,0.332
+4th Bootstrapping,51.029
+Total time for one layer,293.878
+Amortized time,1.148
+Final output max abs,5496341730492497142401204224.000
+Attention Block,47.221
+SelfOutput,0.436
+1st Bootstrapping,56.204
+LayerNorm1,0.619
+2nd Bootstrapping,54.247
+Intermediate Linear,16.063
+GELU,6.156
+Final Linear,1.842
+3rd Bootstrapping,54.378
+LayerNorm2,0.290
+4th Bootstrapping,52.223
+Total time for one layer,289.679
+Amortized time,1.132
+Final output max abs,81.486
+Attention Block,47.905
+SelfOutput,0.458
+1st Bootstrapping,58.750
+LayerNorm1,0.695
+2nd Bootstrapping,57.030
+Intermediate Linear,16.923
+GELU,6.372
+Final Linear,1.889
+Attention Block,48.049
+SelfOutput,0.453
+1st Bootstrapping,58.406
+LayerNorm1,0.686
+2nd Bootstrapping,57.026
+Intermediate Linear,17.947
+GELU,6.610
+Final Linear,2.026
+3rd Bootstrapping,58.604
+LayerNorm2,0.342
+4th Bootstrapping,54.498
+Total time for one layer,304.647
+Amortized time,1.190
+Final output max abs,81.486
+Attention Block,48.051
+SelfOutput,0.464
+1st Bootstrapping,58.716
+LayerNorm1,0.744
+2nd Bootstrapping,56.972
+Intermediate Linear,18.253
+GELU,6.421
+Final Linear,1.903
+3rd Bootstrapping,58.500
+LayerNorm2,0.402
+Attention Block,48.243
+SelfOutput,0.462
+1st Bootstrapping,59.353
+LayerNorm1,0.685
+2nd Bootstrapping,57.371
+Intermediate Linear,17.385
+GELU,6.541
+Final Linear,2.000
+3rd Bootstrapping,58.768
+LayerNorm2,0.333
+4th Bootstrapping,53.277
+Total time for one layer,304.419
+Amortized time,1.189
+Final output max abs,81.486
+Attention Block,48.107
+SelfOutput,0.461
+1st Bootstrapping,58.799
+LayerNorm1,0.690
+2nd Bootstrapping,57.584
+Intermediate Linear,17.378
+GELU,6.355
+Final Linear,1.889
+3rd Bootstrapping,57.489
+LayerNorm2,0.335
+4th Bootstrapping,53.806
+Total time for one layer,302.892
+Amortized time,1.183
+Final output max abs,81.486
+Attention Block,48.561
+SelfOutput,0.463
+1st Bootstrapping,59.256
+LayerNorm1,0.767
+2nd Bootstrapping,57.236
+Intermediate Linear,18.233
+GELU,6.445
+Final Linear,2.025
+3rd Bootstrapping,58.005
+LayerNorm2,0.340
+4th Bootstrapping,55.067
+Total time for one layer,306.398
+Amortized time,1.197
+Final output max abs,81.486
+Attention Block,48.305
+SelfOutput,0.636
+1st Bootstrapping,59.872
+LayerNorm1,0.717
+2nd Bootstrapping,58.561
+Intermediate Linear,18.723
+GELU,6.558
+Final Linear,2.713
+3rd Bootstrapping,61.210
+LayerNorm2,0.349
+4th Bootstrapping,55.092
+Total time for one layer,312.735
+Amortized time,1.222
+Final output max abs,81.486
+Attention Block,69.518
+SelfOutput,1.812
+1st Bootstrapping,94.836
+LayerNorm1,1.091
+2nd Bootstrapping,92.990
+Intermediate Linear,31.454
+GELU,10.105
+Final Linear,7.429
+3rd Bootstrapping,88.517
+LayerNorm2,0.562
+4th Bootstrapping,84.549
+Total time for one layer,482.863
+Amortized time,1.886
+Final output max abs,4.311
+Attention Block,48.305
+SelfOutput,0.654
+1st Bootstrapping,59.005
+LayerNorm1,0.715
+2nd Bootstrapping,58.116
+Intermediate Linear,17.773
+GELU,6.504
+Final Linear,2.642
+3rd Bootstrapping,59.866
+LayerNorm2,0.339
+4th Bootstrapping,55.575
+Total time for one layer,309.493
+Amortized time,1.209
+Final output max abs,81.486
+Attention Block,48.638
+SelfOutput,0.468
+1st Bootstrapping,59.567
+LayerNorm1,0.707
+2nd Bootstrapping,57.848
+Intermediate Linear,17.404
+GELU,6.442
+Attention Block,48.724
+SelfOutput,0.822
+1st Bootstrapping,63.940
+LayerNorm1,0.719
+2nd Bootstrapping,61.840
+Intermediate Linear,18.508
+GELU,6.149
+Final Linear,3.380
+3rd Bootstrapping,63.355
+LayerNorm2,0.376
+4th Bootstrapping,61.819
+Total time for one layer,329.633
+Amortized time,1.288
+Final output max abs,4.305
+Attention Block,49.578
+SelfOutput,1.005
+1st Bootstrapping,64.912
+LayerNorm1,0.751
+2nd Bootstrapping,62.572
+Intermediate Linear,18.854
+GELU,5.972
+Final Linear,4.036
+3rd Bootstrapping,65.407
+LayerNorm2,0.403
+4th Bootstrapping,61.942
+Total time for one layer,335.432
+Amortized time,1.310
+Final output max abs,4.306
+Attention Block,48.545
+SelfOutput,0.819
+1st Bootstrapping,107.262
+LayerNorm1,0.671
+2nd Bootstrapping,107.087
+Intermediate Linear,17.599
+GELU,6.054
+Final Linear,3.387
+3rd Bootstrapping,115.944
+LayerNorm2,0.333
+4th Bootstrapping,117.619
+Total time for one layer,525.319
+Amortized time,2.052
+Final output max abs,4.310
+Attention Block,486.512
+SelfOutput,13.103
+1st Bootstrapping,874.365
+LayerNorm1,2.683
+Attention Block,363.472
+SelfOutput,16.355
+1st Bootstrapping,457.076
+LayerNorm1,2.808
+Attention Block,480.541
+SelfOutput,13.075
+1st Bootstrapping,862.853
+LayerNorm1,2.632
+2nd Bootstrapping,863.251
+Attention Block,478.546
+SelfOutput,13.237
+1st Bootstrapping,863.367
+LayerNorm1,2.541
+2nd Bootstrapping,863.972
+Attention Block,358.807
+SelfOutput,15.830
+1st Bootstrapping,476.843
+LayerNorm1,2.727
+2nd Bootstrapping,486.208
+Intermediate Linear,281.272
+GELU,24.073
+Final Linear,64.938
+3rd Bootstrapping,473.539
+LayerNorm2,8.331
+4th Bootstrapping,478.666
+Total time for one layer,2671.234
+Amortized time,10.435
+Final output max abs,2850.962
+Attention Block,47.248
+SelfOutput,0.723
+Attention Block,47.344
+SelfOutput,0.695
+1st Bootstrapping,105.178
+LayerNorm1,0.672
+2nd Bootstrapping,106.719
+Intermediate Linear,17.604
+GELU,6.057
+Final Linear,3.182
+3rd Bootstrapping,107.515
+LayerNorm2,2.022
+4th Bootstrapping,118.833
+Total time for one layer,515.822
+Amortized time,2.015
+Final output max abs,4.681
+Attention Block,47.220
+SelfOutput,0.696
+Attention Block,48.081
+SelfOutput,0.775
+1st Bootstrapping,105.950
+LayerNorm1,0.668
+2nd Bootstrapping,106.537
+Intermediate Linear,17.654
+GELU,6.026
+Final Linear,3.129
+3rd Bootstrapping,107.585
+LayerNorm2,1.922
+4th Bootstrapping,116.769
+Total time for one layer,515.096
+Amortized time,2.012
+Final output max abs,4.689
+Attention Block,47.945
+SelfOutput,0.774
+1st Bootstrapping,62.589
+LayerNorm1,0.712
+2nd Bootstrapping,61.290
+Intermediate Linear,18.022
+GELU,6.046
+Final Linear,3.150
+3rd Bootstrapping,62.338
+LayerNorm2,2.221
+4th Bootstrapping,60.866
+Total time for one layer,325.953
+Amortized time,1.273
+Final output max abs,4.684
+Attention Block,48.690
+SelfOutput,0.823
+1st Bootstrapping,106.663
+LayerNorm1,0.666
+2nd Bootstrapping,108.550
+Intermediate Linear,17.334
+GELU,5.929
+Final Linear,3.141
+3rd Bootstrapping,108.286
+LayerNorm2,1.827
+4th Bootstrapping,118.924
+Total time for one layer,520.833
+Amortized time,2.035
+Final output max abs,4.881
+Attention Block,47.888
+SelfOutput,0.796
+1st Bootstrapping,64.347
+LayerNorm1,0.765
+2nd Bootstrapping,60.566
+Intermediate Linear,17.864
+GELU,5.907
+Final Linear,3.191
+3rd Bootstrapping,63.199
+LayerNorm2,2.141
+4th Bootstrapping,61.228
+Total time for one layer,327.891
+Amortized time,1.281
+Final output max abs,4.879
+Attention Block,48.045
+SelfOutput,0.812
+1st Bootstrapping,107.255
+LayerNorm1,0.687
+2nd Bootstrapping,108.152
+Intermediate Linear,17.030
+GELU,6.128
+Final Linear,3.325
+3rd Bootstrapping,108.279
+LayerNorm2,2.030
+4th Bootstrapping,118.243
+Total time for one layer,519.987
+Amortized time,2.031
+Final output max abs,4.881
+Attention Block,47.847
+SelfOutput,0.809
+1st Bootstrapping,106.235
+LayerNorm1,0.660
+2nd Bootstrapping,107.369
+Intermediate Linear,17.588
+GELU,6.040
+Final Linear,3.385
+3rd Bootstrapping,108.902
+LayerNorm2,1.659
+4th Bootstrapping,119.214
+Total time for one layer,519.709
+Amortized time,2.030
+Final output max abs,4.881
+Attention Block,48.587
+SelfOutput,0.828
+1st Bootstrapping,62.668
+LayerNorm1,0.783
+2nd Bootstrapping,62.777
+Intermediate Linear,17.502
+GELU,6.151
+Final Linear,3.358
+3rd Bootstrapping,62.234
+LayerNorm2,1.859
+4th Bootstrapping,62.282
+Total time for one layer,329.030
+Amortized time,1.285
+Final output max abs,4.873
+Attention Block,48.074
+SelfOutput,0.782
+1st Bootstrapping,106.686
+LayerNorm1,0.650
+2nd Bootstrapping,106.760
+Intermediate Linear,18.287
+GELU,5.986
+Final Linear,3.190
+3rd Bootstrapping,108.573
+LayerNorm2,1.903
+4th Bootstrapping,118.945
+Total time for one layer,519.836
+Amortized time,2.031
+Final output max abs,4.881
+Attention Block,48.985
+SelfOutput,0.799
+1st Bootstrapping,64.035
+LayerNorm1,0.736
+2nd Bootstrapping,61.121
+Intermediate Linear,17.254
+GELU,6.184
+Final Linear,3.296
+3rd Bootstrapping,63.940
+LayerNorm2,2.103
+4th Bootstrapping,60.665
+Total time for one layer,329.118
+Amortized time,1.286
+Final output max abs,4.876
+Attention Block,47.836
+SelfOutput,0.772
+1st Bootstrapping,106.946
+LayerNorm1,0.660
+2nd Bootstrapping,106.692
+Intermediate Linear,16.572
+GELU,5.907
+Final Linear,3.156
+3rd Bootstrapping,106.068
+LayerNorm2,1.571
+4th Bootstrapping,118.309
+Total time for one layer,514.488
+Amortized time,2.010
+Final output max abs,4.881
+Attention Block,47.873
+SelfOutput,0.792
+1st Bootstrapping,108.155
+LayerNorm1,0.674
+2nd Bootstrapping,107.578
+Intermediate Linear,17.372
+GELU,5.995
+Final Linear,3.253
+3rd Bootstrapping,108.185
+LayerNorm2,1.562
+4th Bootstrapping,119.642
+Total time for one layer,521.080
+Amortized time,2.035
+Final output max abs,4.881
+Attention Block,49.800
+SelfOutput,0.983
+1st Bootstrapping,107.790
+LayerNorm1,0.663
+2nd Bootstrapping,107.859
+Intermediate Linear,20.382
+GELU,5.977
+Final Linear,3.263
+3rd Bootstrapping,109.285
+LayerNorm2,1.540
+4th Bootstrapping,118.677
+Total time for one layer,526.221
+Amortized time,2.056
+Final output max abs,4.881
+Attention Block,48.020
+SelfOutput,0.778
+1st Bootstrapping,63.101
+LayerNorm1,0.747
+2nd Bootstrapping,60.721
+Intermediate Linear,16.904
+GELU,5.987
+Final Linear,3.194
+3rd Bootstrapping,63.393
+LayerNorm2,1.753
+4th Bootstrapping,61.632
+Total time for one layer,326.229
+Amortized time,1.274
+Final output max abs,4.876
+Attention Block,47.780
+SelfOutput,0.791
+1st Bootstrapping,64.165
+LayerNorm1,0.737
+2nd Bootstrapping,61.896
+Intermediate Linear,16.880
+GELU,6.009
+Final Linear,3.257
+3rd Bootstrapping,63.596
+LayerNorm2,1.887
+4th Bootstrapping,62.089
+Total time for one layer,329.087
+Amortized time,1.285
+Final output max abs,4.878
+Attention Block,48.087
+SelfOutput,0.792
+1st Bootstrapping,62.701
+LayerNorm1,0.732
+2nd Bootstrapping,61.452
+Intermediate Linear,17.058
+GELU,5.920
+Final Linear,3.225
+3rd Bootstrapping,62.802
+LayerNorm2,1.752
+4th Bootstrapping,64.635
+Total time for one layer,329.155
+Amortized time,1.286
+Final output max abs,4.882
+Attention Block,349.775
+SelfOutput,12.519
+1st Bootstrapping,469.994
+LayerNorm1,2.586
+2nd Bootstrapping,476.866
+Intermediate Linear,272.613
+GELU,23.466
+Final Linear,53.463
+3rd Bootstrapping,478.963
+LayerNorm2,7.636
+4th Bootstrapping,478.712
+Total time for one layer,2626.592
+Amortized time,10.260
+Final output max abs,9.949
+Attention Block,369.723
+SelfOutput,15.750
+1st Bootstrapping,450.948
+LayerNorm1,2.896
+2nd Bootstrapping,448.169
+Intermediate Linear,279.734
+GELU,23.512
+Attention Block,347.721
+SelfOutput,12.539
+1st Bootstrapping,249.239
+LayerNorm1,2.722
+2nd Bootstrapping,246.877
+Attention Block,47.731
+SelfOutput,0.804
+1st Bootstrapping,107.066
+LayerNorm1,0.683
+2nd Bootstrapping,106.821
+Intermediate Linear,17.078
+GELU,5.852
+Final Linear,3.276
+3rd Bootstrapping,108.881
+LayerNorm2,1.810
+4th Bootstrapping,115.992
+Total time for one layer,515.995
+Amortized time,2.016
+Final output max abs,4.881
+Attention Block,47.684
+SelfOutput,0.789
+1st Bootstrapping,105.777
+LayerNorm1,0.675
+2nd Bootstrapping,105.613
+Intermediate Linear,17.830
+GELU,5.910
+Final Linear,3.141
+3rd Bootstrapping,107.278
+LayerNorm2,1.855
+4th Bootstrapping,114.997
+Total time for one layer,511.549
+Amortized time,1.998
+Final output max abs,4.881
+Attention Block,47.365
+SelfOutput,0.779
+1st Bootstrapping,105.520
+LayerNorm1,0.671
+2nd Bootstrapping,107.444
+Intermediate Linear,17.887
+GELU,5.918
+Final Linear,3.215
+3rd Bootstrapping,107.575
+LayerNorm2,1.866
+4th Bootstrapping,119.087
+Total time for one layer,517.326
+Amortized time,2.021
+Final output max abs,4.881
+Attention Block,48.554
+SelfOutput,0.784
+1st Bootstrapping,62.906
+LayerNorm1,0.720
+2nd Bootstrapping,61.266
+Intermediate Linear,17.652
+GELU,6.050
+Final Linear,3.214
+3rd Bootstrapping,63.598
+LayerNorm2,2.128
+4th Bootstrapping,61.016
+Total time for one layer,327.888
+Amortized time,1.281
+Final output max abs,4.881
+Attention Block,47.630
+SelfOutput,0.804
+1st Bootstrapping,62.427
+LayerNorm1,0.738
+2nd Bootstrapping,61.937
+Intermediate Linear,18.095
+GELU,5.981
+Final Linear,3.196
+3rd Bootstrapping,62.320
+LayerNorm2,2.073
+4th Bootstrapping,61.643
+Total time for one layer,326.844
+Amortized time,1.277
+Final output max abs,4.879
+Attention Block,48.270
+SelfOutput,1.000
+1st Bootstrapping,64.032
+LayerNorm1,0.779
+2nd Bootstrapping,63.126
+Intermediate Linear,17.463
+GELU,6.053
+Final Linear,4.048
+3rd Bootstrapping,64.088
+LayerNorm2,2.239
+4th Bootstrapping,61.824
+Total time for one layer,332.923
+Amortized time,1.300
+Final output max abs,4.875
+Attention Block,349.646
+SelfOutput,12.858
+1st Bootstrapping,251.847
+LayerNorm1,2.835
+2nd Bootstrapping,247.222
+Intermediate Linear,276.964
+GELU,23.731
+Final Linear,53.195
+3rd Bootstrapping,248.143
+Attention Block,353.326
+SelfOutput,13.286
+1st Bootstrapping,254.536
+LayerNorm1,2.723
+2nd Bootstrapping,251.013
+Intermediate Linear,277.637
+GELU,23.826
+Final Linear,55.072
+3rd Bootstrapping,246.135
+LayerNorm2,9.025
+4th Bootstrapping,247.083
+Total time for one layer,1733.662
+Amortized time,6.772
+Final output max abs,9.866
+Attention Block,357.024
+SelfOutput,13.192
+1st Bootstrapping,473.604
+LayerNorm1,2.563
+2nd Bootstrapping,483.322
+Intermediate Linear,289.571
+GELU,24.488
+Final Linear,54.501
+3rd Bootstrapping,468.190
+LayerNorm2,7.532
+4th Bootstrapping,476.072
+Total time for one layer,2650.060
+Amortized time,10.352
+Final output max abs,9.891
+Attention Block,354.532
+SelfOutput,13.275
+1st Bootstrapping,475.165
+LayerNorm1,2.521
+2nd Bootstrapping,477.067
+Intermediate Linear,290.172
+GELU,23.603
+Final Linear,54.032
+3rd Bootstrapping,473.933
+LayerNorm2,8.244
+4th Bootstrapping,471.592
+Total time for one layer,2644.135
+Amortized time,10.329
+Final output max abs,9.978
+Attention Block,358.812
+SelfOutput,15.921
+1st Bootstrapping,250.926
+LayerNorm1,2.998
+2nd Bootstrapping,251.391
+Intermediate Linear,278.647
+GELU,23.886
+Final Linear,65.624
+3rd Bootstrapping,253.250
+LayerNorm2,10.298
+4th Bootstrapping,253.743
+Total time for one layer,1765.496
+Amortized time,6.896
+Final output max abs,9.796
+Attention Block,353.779
+SelfOutput,13.278
+1st Bootstrapping,252.725
+LayerNorm1,2.764
+2nd Bootstrapping,249.470
+Intermediate Linear,279.815
+GELU,23.726
+Final Linear,54.622
+3rd Bootstrapping,250.230
+LayerNorm2,9.353
+4th Bootstrapping,254.060
+Total time for one layer,1743.824
+Amortized time,6.812
+Final output max abs,9.776
+Attention Block,368.336
+SelfOutput,13.673
+1st Bootstrapping,305.838
+LayerNorm1,2.822
+2nd Bootstrapping,303.028
+Intermediate Linear,294.834
+GELU,24.331
+Final Linear,55.674
+3rd Bootstrapping,298.094
+LayerNorm2,10.038
+4th Bootstrapping,298.588
+Total time for one layer,1975.256
+Amortized time,7.716
+Final output max abs,9.757
+Attention Block,351.923
+SelfOutput,13.822
+1st Bootstrapping,236.205
+LayerNorm1,2.682
+2nd Bootstrapping,229.084
+Intermediate Linear,277.968
+GELU,24.032
+Final Linear,56.104
+3rd Bootstrapping,230.370
+LayerNorm2,8.951
+Attention Block,356.101
+SelfOutput,13.930
+1st Bootstrapping,255.674
+LayerNorm1,3.063
+2nd Bootstrapping,245.942
+Intermediate Linear,274.836
+GELU,24.730
+Final Linear,59.583
+3rd Bootstrapping,254.749
+LayerNorm2,7.863
+4th Bootstrapping,255.041
+Total time for one layer [L0],1751.512
+Amortized time [L0],6.842
+Final output max abs [L0],9.818
+Attention Block,447.547
+SelfOutput,14.091
+1st Bootstrapping,253.962
+Attention Block,352.040
+SelfOutput,15.463
+1st Bootstrapping,250.917
+LayerNorm1,2.874
+2nd Bootstrapping,252.395
+Intermediate Linear,273.942
+GELU,24.168
+Final Linear,64.257
+3rd Bootstrapping,258.661
+LayerNorm2,8.398
+4th Bootstrapping,257.990
+Total time for one layer [L0],1761.104
+Amortized time [L0],6.879
+Final output max abs [L0],9.715
+Attention Block,446.076
+SelfOutput,15.997
+1st Bootstrapping,256.608
+Attention Block,352.510
+SelfOutput,13.051
+1st Bootstrapping,249.304
+LayerNorm1,2.841
+2nd Bootstrapping,250.147
+Intermediate Linear,279.407
+GELU,24.321
+Final Linear,54.583
+3rd Bootstrapping,257.266
+LayerNorm2,7.158
+4th Bootstrapping,250.604
+Total time for one layer [L0],1741.193
+Amortized time [L0],6.802
+Final output max abs [L0],9.771
+Attention Block,436.873
+SelfOutput,13.368
+1st Bootstrapping,261.851
+LayerNorm1,1.659
+2nd Bootstrapping,250.767
+Intermediate Linear,288.191
+GELU,23.968
+Final Linear,55.841
+3rd Bootstrapping,251.748
+LayerNorm2,7.454
+4th Bootstrapping,250.176
+Total time for one layer [L1],1841.896
+Amortized time [L1],7.195
+Final output max abs [L1],81.486
+Attention Block,441.955
+SelfOutput,13.701
+1st Bootstrapping,257.574
+LayerNorm1,1.649
+2nd Bootstrapping,250.285
+Intermediate Linear,305.935
+GELU,24.062
+Attention Block,375.073
+SelfOutput,13.305
+1st Bootstrapping,251.845
+LayerNorm1,2.975
+2nd Bootstrapping,254.237
+Intermediate Linear,293.867
+GELU,23.922
+Final Linear,55.543
+3rd Bootstrapping,249.958
+LayerNorm2,7.554
+4th Bootstrapping,246.987
+Total time for one layer [L0],1775.266
+Amortized time [L0],6.935
+Final output max abs [L0],9.860
+Attention Block,454.109
+SelfOutput,13.444
+1st Bootstrapping,256.382
+LayerNorm1,1.680
+2nd Bootstrapping,252.389
+Intermediate Linear,301.180
+GELU,23.729
+Final Linear,56.986
+3rd Bootstrapping,258.637
+LayerNorm2,7.412
+4th Bootstrapping,252.142
+Total time for one layer [L1],1878.092
+Amortized time [L1],7.336
+Final output max abs [L1],9.933
+Attention Block,447.278
+SelfOutput,13.898
+1st Bootstrapping,259.663
+LayerNorm1,1.807
+2nd Bootstrapping,256.534
+Intermediate Linear,328.367
+GELU,24.362
+Final Linear,56.354
+3rd Bootstrapping,250.133
+LayerNorm2,7.316
+4th Bootstrapping,250.676
+Total time for one layer [L2],1896.388
+Amortized time [L2],7.408
+Final output max abs [L2],9.897
+Attention Block,359.431
+SelfOutput,13.145
+1st Bootstrapping,257.520
+LayerNorm1,3.153
+2nd Bootstrapping,248.549
+Intermediate Linear,281.663
+GELU,24.066
+Final Linear,53.378
+3rd Bootstrapping,250.432
+LayerNorm2,8.060
+4th Bootstrapping,249.986
+Total time for one layer [L0],1749.382
+Amortized time [L0],6.834
+Final output max abs [L0],9.736
+Attention Block,450.296
+SelfOutput,13.556
+1st Bootstrapping,259.408
+LayerNorm1,1.703
+2nd Bootstrapping,258.525
+Intermediate Linear,298.713
+GELU,24.694
+Final Linear,54.788
+3rd Bootstrapping,253.672
+LayerNorm2,7.287
+4th Bootstrapping,257.617
+Total time for one layer [L1],1880.259
+Amortized time [L1],7.345
+Final output max abs [L1],9.903
+Attention Block,441.446
+SelfOutput,13.534
+1st Bootstrapping,258.002
+LayerNorm1,1.738
+2nd Bootstrapping,258.283
+Intermediate Linear,344.444
+GELU,24.352
+Final Linear,54.095
+3rd Bootstrapping,252.417
+LayerNorm2,7.173
+4th Bootstrapping,258.320
+Total time for one layer [L2],1913.803
+Amortized time [L2],7.476
+Final output max abs [L2],81.486
+Attention Block,449.288
+SelfOutput,13.377
+1st Bootstrapping,253.135
+LayerNorm1,1.706
+2nd Bootstrapping,250.611
+Intermediate Linear,270.093
+GELU,24.115
+Final Linear,52.909
+3rd Bootstrapping,249.736
+LayerNorm2,7.193
+4th Bootstrapping,246.828
+Total time for one layer [L3],1818.991
+Amortized time [L3],7.105
+Final output max abs [L3],81.486
+Attention Block,449.038
+SelfOutput,16.276
+1st Bootstrapping,262.711
+LayerNorm1,1.693
+2nd Bootstrapping,252.993
+Intermediate Linear,347.707
+GELU,24.189
+Final Linear,65.478
+3rd Bootstrapping,251.552
+LayerNorm2,7.919
+4th Bootstrapping,252.490
+Total time for one layer [L4],1932.045
+Amortized time [L4],7.547
+Final output max abs [L4],81.486
+Attention Block,432.818
+SelfOutput,16.164
+1st Bootstrapping,255.955
+LayerNorm1,1.728
+2nd Bootstrapping,254.135
+Intermediate Linear,271.486
+GELU,24.631
+Final Linear,66.026
+3rd Bootstrapping,254.927
+LayerNorm2,7.854
+4th Bootstrapping,252.995
+Total time for one layer [L5],1838.719
+Amortized time [L5],7.182
+Final output max abs [L5],81.486
+Attention Block,435.858
+SelfOutput,16.244
+1st Bootstrapping,263.497
+LayerNorm1,1.758
+2nd Bootstrapping,259.135
+Intermediate Linear,283.915
+GELU,24.350
+Final Linear,65.725
+3rd Bootstrapping,250.843
+LayerNorm2,7.899
+4th Bootstrapping,249.296
+Total time for one layer [L6],1858.520
+Amortized time [L6],7.260
+Final output max abs [L6],81.486
+Attention Block,442.245
+SelfOutput,15.971
+1st Bootstrapping,254.369
+LayerNorm1,1.704
+2nd Bootstrapping,251.445
+Intermediate Linear,273.454
+GELU,24.896
+Final Linear,65.831
+3rd Bootstrapping,254.979
+LayerNorm2,7.846
+4th Bootstrapping,254.861
+Total time for one layer [L7],1847.602
+Amortized time [L7],7.217
+Final output max abs [L7],81.486
+Attention Block,437.448
+SelfOutput,16.159
+1st Bootstrapping,257.820
+LayerNorm1,1.702
+2nd Bootstrapping,251.654
+Intermediate Linear,272.768
+GELU,24.895
+Final Linear,66.299
+3rd Bootstrapping,257.019
+LayerNorm2,7.889
+4th Bootstrapping,254.607
+Total time for one layer [L8],1848.261
+Amortized time [L8],7.220
+Final output max abs [L8],81.486
+Attention Block,434.151
+SelfOutput,16.071
+1st Bootstrapping,251.573
+LayerNorm1,1.677
+2nd Bootstrapping,252.101
+Intermediate Linear,283.456
+GELU,24.333
+Final Linear,65.780
+3rd Bootstrapping,255.017
+LayerNorm2,8.020
+4th Bootstrapping,257.427
+Total time for one layer [L9],1849.606
+Amortized time [L9],7.225
+Final output max abs [L9],81.486
+Attention Block,437.108
+SelfOutput,16.142
+1st Bootstrapping,259.875
+LayerNorm1,1.787
+2nd Bootstrapping,258.389
+Intermediate Linear,281.757
+GELU,24.530
+Final Linear,64.707
+3rd Bootstrapping,252.136
+LayerNorm2,7.925
+4th Bootstrapping,248.721
+Total time for one layer [L10],1853.077
+Amortized time [L10],7.239
+Final output max abs [L10],81.486
+Attention Block,437.437
+SelfOutput,16.210
+1st Bootstrapping,256.886
+LayerNorm1,1.682
+2nd Bootstrapping,255.468
+Intermediate Linear,281.975
+GELU,24.456
+Final Linear,65.828
+3rd Bootstrapping,253.281
+LayerNorm2,7.870
+4th Bootstrapping,253.343
+Total time for one layer [L11],1854.435
+Amortized time [L11],7.244
+Final output max abs [L11],81.486
+Attention Block,345.418
+SelfOutput,13.662
+1st Bootstrapping,241.575
+LayerNorm1,2.560
+2nd Bootstrapping,235.364
+Intermediate Linear,261.682
+GELU,22.776
+Final Linear,54.503
+3rd Bootstrapping,239.230
+LayerNorm2,7.159
+4th Bootstrapping,237.160
+Total time for one layer,1661.089
+Amortized time,6.489
+Final output max abs,9.766
+Attention Block,347.321
+SelfOutput,13.444
+1st Bootstrapping,241.215
+LayerNorm1,2.669
+2nd Bootstrapping,237.938
+Intermediate Linear,261.468
+GELU,23.224
+Final Linear,54.808
+3rd Bootstrapping,239.999
+LayerNorm2,6.883
+4th Bootstrapping,239.741
+Total time for one layer [L0],1668.709
+Amortized time [L0],6.518
+Final output max abs [L0],9.756
+Attention Block,425.933
+SelfOutput,13.466
+1st Bootstrapping,239.459
+LayerNorm1,1.611
+2nd Bootstrapping,239.581
+Intermediate Linear,278.779
+GELU,22.898
+Final Linear,54.695
+3rd Bootstrapping,238.526
+LayerNorm2,7.112
+4th Bootstrapping,240.034
+Total time for one layer [L1],1762.093
+Amortized time [L1],6.883
+Final output max abs [L1],11.247
+Attention Block,426.000
+SelfOutput,13.570
+1st Bootstrapping,238.833
+LayerNorm1,1.453
+2nd Bootstrapping,235.688
+Intermediate Linear,303.256
+GELU,22.839
+Final Linear,53.643
+3rd Bootstrapping,237.585
+LayerNorm2,6.888
+4th Bootstrapping,232.398
+Total time for one layer [L2],1772.154
+Amortized time [L2],6.922
+Final output max abs [L2],10.727
+Attention Block,352.835
+SelfOutput,13.614
+1st Bootstrapping,252.199
+LayerNorm1,2.949
+2nd Bootstrapping,249.171
+Intermediate Linear,265.867
+GELU,23.639
+Final Linear,56.024
+3rd Bootstrapping,247.854
+LayerNorm2,7.557
+4th Bootstrapping,248.479
+Total time for one layer,1720.186
+Amortized time,6.719
+Final output max abs,9.837
+Attention Block,355.545
+SelfOutput,15.334
+1st Bootstrapping,257.432
+LayerNorm1,2.892
+2nd Bootstrapping,248.096
+Intermediate Linear,266.767
+GELU,23.595
+Final Linear,63.633
+3rd Bootstrapping,251.321
+LayerNorm2,8.217
+4th Bootstrapping,248.624
+Total time for one layer [L0],1741.456
+Amortized time [L0],6.803
+Final output max abs [L0],9.831
+Attention Block,439.115
+SelfOutput,15.859
+1st Bootstrapping,253.599
+LayerNorm1,1.666
+2nd Bootstrapping,254.194
+Intermediate Linear,285.772
+GELU,23.858
+Final Linear,63.261
+3rd Bootstrapping,249.347
+LayerNorm2,7.769
+4th Bootstrapping,248.504
+Total time for one layer [L1],1842.944
+Amortized time [L1],7.199
+Final output max abs [L1],11.202
+Attention Block,433.614
+SelfOutput,15.672
+1st Bootstrapping,255.639
+LayerNorm1,1.667
+2nd Bootstrapping,251.727
+Intermediate Linear,282.782
+GELU,23.815
+Final Linear,63.617
+3rd Bootstrapping,250.867
+LayerNorm2,7.647
+4th Bootstrapping,250.580
+Total time for one layer [L2],1837.624
+Amortized time [L2],7.178
+Final output max abs [L2],81.486
+Attention Block,433.338
+SelfOutput,15.479
+1st Bootstrapping,249.659
+LayerNorm1,1.620
+2nd Bootstrapping,247.441
+Intermediate Linear,314.671
+GELU,24.210
+Final Linear,62.338
+3rd Bootstrapping,244.776
+LayerNorm2,7.549
+4th Bootstrapping,241.557
+Total time for one layer [L3],1842.639
+Amortized time [L3],7.198
+Final output max abs [L3],81.486
+Attention Block,477.745
+SelfOutput,14.282
+1st Bootstrapping,243.969
+LayerNorm1,2.674
+2nd Bootstrapping,248.169
+Intermediate Linear,278.625
+GELU,23.553
+Final Linear,55.164
+3rd Bootstrapping,242.489
+LayerNorm2,8.267
+4th Bootstrapping,245.406
+Total time for one layer [L0],1840.344
+Amortized time [L0],7.189
+Final output max abs [L0],9.830
+Attention Block,437.734
+Attention Block,355.858
+SelfOutput,14.339
+1st Bootstrapping,251.925
+LayerNorm1,2.816
+2nd Bootstrapping,251.181
+Intermediate Linear,274.075
+GELU,23.634
+Final Linear,59.415
+3rd Bootstrapping,248.783
+LayerNorm2,8.338
+4th Bootstrapping,252.097
+Total time for one layer [L0],1742.460
+Amortized time [L0],6.806
+Final output max abs [L0],9.829
+Attention Block,435.702
+SelfOutput,14.583
+1st Bootstrapping,252.968
+LayerNorm1,1.653
+2nd Bootstrapping,249.406
+Intermediate Linear,300.688
+GELU,23.416
+Final Linear,60.227
+3rd Bootstrapping,250.206
+LayerNorm2,7.920
+4th Bootstrapping,250.237
+Total time for one layer [L1],1847.007
+Amortized time [L1],7.215
+Final output max abs [L1],11.204
+Attention Block,436.049
+SelfOutput,14.599
+1st Bootstrapping,253.253
+LayerNorm1,1.578
+2nd Bootstrapping,251.294
+Intermediate Linear,273.126
+GELU,23.491
+Final Linear,58.978
+3rd Bootstrapping,250.020
+LayerNorm2,8.254
+4th Bootstrapping,249.443
+Total time for one layer [L2],1820.084
+Amortized time [L2],7.110
+Final output max abs [L2],10.836
+Attention Block,439.894
+Attention Block,419.599
+SelfOutput,14.288
+1st Bootstrapping,484.690
+LayerNorm1,2.605
+2nd Bootstrapping,489.556
+Intermediate Linear,293.898
+GELU,23.744
+Final Linear,58.378
+3rd Bootstrapping,474.933
+LayerNorm2,7.506
+4th Bootstrapping,475.156
+Total time for one layer [L0],2744.353
+Amortized time [L0],10.720
+Final output max abs [L0],9.992
+Attention Block,380.568
+SelfOutput,14.050
+1st Bootstrapping,499.240
+LayerNorm1,1.422
+2nd Bootstrapping,496.739
+Intermediate Linear,290.940
+GELU,23.348
+Final Linear,56.301
+3rd Bootstrapping,476.023
+LayerNorm2,6.807
+4th Bootstrapping,475.934
+Total time for one layer [L1],2721.370
+Amortized time [L1],10.630
+Final output max abs [L1],11.366
+Attention Block,378.706
+SelfOutput,14.188
+1st Bootstrapping,484.924
+LayerNorm1,1.423
+2nd Bootstrapping,481.519
+Intermediate Linear,278.060
+GELU,23.564
+Final Linear,58.310
+3rd Bootstrapping,473.754
+LayerNorm2,6.922
+4th Bootstrapping,473.146
+Total time for one layer [L2],2674.518
+Amortized time [L2],10.447
+Final output max abs [L2],14.672
+Attention Block,383.319
+SelfOutput,14.189
+1st Bootstrapping,485.525
+LayerNorm1,1.478
+2nd Bootstrapping,491.090
+Intermediate Linear,288.910
+GELU,23.550
+Final Linear,57.770
+3rd Bootstrapping,489.904
+LayerNorm2,6.784
+4th Bootstrapping,481.849
+Total time for one layer [L3],2724.367
+Amortized time [L3],10.642
+Final output max abs [L3],14.007
+Attention Block,384.802
+SelfOutput,14.292
+1st Bootstrapping,482.026
+LayerNorm1,1.417
+2nd Bootstrapping,487.452
+Intermediate Linear,273.297
+GELU,23.466
+Final Linear,57.228
+3rd Bootstrapping,483.708
+LayerNorm2,7.159
+4th Bootstrapping,481.739
+Total time for one layer [L4],2696.588
+Amortized time [L4],10.534
+Final output max abs [L4],14.319
+Attention Block,380.728
+SelfOutput,14.277
+1st Bootstrapping,478.691
+LayerNorm1,1.388
+2nd Bootstrapping,489.389
+Intermediate Linear,275.176
+GELU,23.466
+Final Linear,56.489
+3rd Bootstrapping,475.373
+LayerNorm2,7.090
+4th Bootstrapping,480.075
+Total time for one layer [L5],2682.141
+Amortized time [L5],10.477
+Final output max abs [L5],13.623
+Attention Block,391.458
+Attention Block,359.036
+SelfOutput,14.930
+1st Bootstrapping,254.720
+LayerNorm1,2.753
+2nd Bootstrapping,256.330
+Intermediate Linear,275.762
+GELU,23.545
+Final Linear,59.952
+3rd Bootstrapping,256.153
+LayerNorm2,9.108
+4th Bootstrapping,251.514
+Total time for one layer [L0],1763.804
+Amortized time [L0],6.890
+Final output max abs [L0],81.486
+Attention Block,444.521
+Attention Block,354.048
+SelfOutput,14.588
+1st Bootstrapping,264.778
+LayerNorm1,2.847
+2nd Bootstrapping,256.298
+Intermediate Linear,273.045
+GELU,23.617
+Final Linear,60.708
+3rd Bootstrapping,248.625
+LayerNorm2,8.600
+4th Bootstrapping,245.718
+Total time for one layer [L0],1752.872
+Amortized time [L0],6.847
+Final output max abs [L0],9.951
+Attention Block,439.809
+SelfOutput,14.724
+1st Bootstrapping,256.337
+LayerNorm1,1.543
+2nd Bootstrapping,249.452
+Intermediate Linear,278.114
+GELU,23.581
+Final Linear,60.175
+3rd Bootstrapping,255.323
+LayerNorm2,8.247
+4th Bootstrapping,249.376
+Total time for one layer [L1],1836.681
+Amortized time [L1],7.175
+Final output max abs [L1],81.486
+Attention Block,437.834
+Attention Block,362.014
+SelfOutput,14.931
+1st Bootstrapping,255.283
+LayerNorm1,2.814
+2nd Bootstrapping,255.382
+Intermediate Linear,282.684
+GELU,24.338
+Final Linear,61.668
+3rd Bootstrapping,256.513
+LayerNorm2,8.794
+4th Bootstrapping,259.493
+Total time for one layer [L0],1783.914
+Amortized time [L0],6.968
+Final output max abs [L0],9.953
+Attention Block,440.779
+SelfOutput,15.029
+1st Bootstrapping,255.984
+LayerNorm1,1.642
+2nd Bootstrapping,256.015
+Intermediate Linear,302.496
+GELU,24.116
+Final Linear,61.534
+3rd Bootstrapping,256.649
+LayerNorm2,8.214
+4th Bootstrapping,255.815
+Total time for one layer [L1],1878.272
+Amortized time [L1],7.337
+Final output max abs [L1],11.317
+Attention Block,441.148
+SelfOutput,14.886
+1st Bootstrapping,256.563
+LayerNorm1,1.706
+2nd Bootstrapping,253.190
+Intermediate Linear,277.287
+GELU,24.284
+Final Linear,61.281
+3rd Bootstrapping,256.211
+LayerNorm2,8.499
+4th Bootstrapping,257.669
+Total time for one layer [L2],1852.722
+Amortized time [L2],7.237
+Final output max abs [L2],14.587
+Attention Block,445.720
+SelfOutput,14.951
+1st Bootstrapping,261.027
+LayerNorm1,1.619
+2nd Bootstrapping,254.978
+Intermediate Linear,280.127
+GELU,24.425
+Final Linear,61.518
+3rd Bootstrapping,257.706
+LayerNorm2,8.223
+4th Bootstrapping,260.038
+Total time for one layer [L3],1870.332
+Amortized time [L3],7.306
+Final output max abs [L3],13.856
+Attention Block,443.913
+SelfOutput,15.077
+1st Bootstrapping,257.426
+LayerNorm1,1.799
+2nd Bootstrapping,256.782
+Intermediate Linear,281.685
+GELU,24.206
+Final Linear,60.112
+3rd Bootstrapping,261.856
+LayerNorm2,8.526
+4th Bootstrapping,262.074
+Total time for one layer [L4],1873.456
+Amortized time [L4],7.318
+Final output max abs [L4],14.168
+Attention Block,448.844
+SelfOutput,14.959
+1st Bootstrapping,257.574
+LayerNorm1,1.544
+2nd Bootstrapping,256.917
+Intermediate Linear,286.313
+GELU,23.615
+Final Linear,61.850
+3rd Bootstrapping,254.296
+LayerNorm2,8.450
+4th Bootstrapping,255.976
+Total time for one layer [L5],1870.337
+Amortized time [L5],7.306
+Final output max abs [L5],16.905
+Attention Block,450.534
+SelfOutput,15.003
+1st Bootstrapping,258.086
+LayerNorm1,1.597
+2nd Bootstrapping,259.419
+Intermediate Linear,280.362
+GELU,24.135
+Final Linear,61.216
+3rd Bootstrapping,255.962
+LayerNorm2,8.409
+4th Bootstrapping,256.410
+Total time for one layer [L6],1871.132
+Amortized time [L6],7.309
+Final output max abs [L6],81.486
+Attention Block,442.285
+Attention Block,359.125
+SelfOutput,14.727
+1st Bootstrapping,265.693
+LayerNorm1,2.738
+2nd Bootstrapping,255.305
+Intermediate Linear,282.435
+GELU,23.676
+Final Linear,61.143
+3rd Bootstrapping,250.468
+LayerNorm2,8.900
+4th Bootstrapping,255.285
+Total time for one layer [L0],1779.496
+Amortized time [L0],6.951
+Final output max abs [L0],9.950
+Attention Block,440.664
+SelfOutput,15.210
+1st Bootstrapping,253.495
+LayerNorm1,1.684
+2nd Bootstrapping,254.909
+Intermediate Linear,282.358
+GELU,23.542
+Final Linear,61.169
+3rd Bootstrapping,251.086
+LayerNorm2,8.228
+4th Bootstrapping,248.652
+Total time for one layer [L1],1840.997
+Amortized time [L1],7.191
+Final output max abs [L1],11.312
+Attention Block,441.474
+SelfOutput,14.887
+1st Bootstrapping,254.100
+LayerNorm1,1.646
+2nd Bootstrapping,255.182
+Intermediate Linear,279.890
+GELU,24.259
+Final Linear,60.587
+3rd Bootstrapping,250.372
+LayerNorm2,8.367
+4th Bootstrapping,252.650
+Total time for one layer [L2],1843.413
+Amortized time [L2],7.201
+Final output max abs [L2],14.585
+Attention Block,447.514
+SelfOutput,14.819
+1st Bootstrapping,255.078
+LayerNorm1,1.707
+2nd Bootstrapping,252.098
+Intermediate Linear,272.233
+GELU,23.739
+Final Linear,61.115
+3rd Bootstrapping,252.332
+LayerNorm2,8.421
+4th Bootstrapping,251.908
+Total time for one layer [L3],1840.963
+Amortized time [L3],7.191
+Final output max abs [L3],14.004
+Attention Block,443.031
+SelfOutput,14.960
+1st Bootstrapping,256.656
+LayerNorm1,1.564
+2nd Bootstrapping,258.293
+Intermediate Linear,280.896
+GELU,23.924
+Final Linear,61.318
+3rd Bootstrapping,255.996
+LayerNorm2,8.438
+4th Bootstrapping,252.390
+Total time for one layer [L4],1857.466
+Amortized time [L4],7.256
+Final output max abs [L4],81.486
+Attention Block,442.682
+Attention Block,357.022
+SelfOutput,14.632
+1st Bootstrapping,263.945
+LayerNorm1,2.790
+2nd Bootstrapping,257.350
+Intermediate Linear,274.633
+GELU,23.940
+Final Linear,60.510
+3rd Bootstrapping,260.920
+LayerNorm2,8.762
+4th Bootstrapping,265.112
+Total time for one layer [L0],1789.616
+Amortized time [L0],6.991
+Final output max abs [L0],9.948
+Attention Block,438.049
+SelfOutput,15.134
+1st Bootstrapping,259.845
+LayerNorm1,1.681
+2nd Bootstrapping,256.914
+Intermediate Linear,280.132
+GELU,23.811
+Final Linear,60.447
+3rd Bootstrapping,256.479
+LayerNorm2,8.184
+4th Bootstrapping,257.171
+Total time for one layer [L1],1857.848
+Amortized time [L1],7.257
+Final output max abs [L1],11.308
+Attention Block,438.257
+SelfOutput,14.895
+1st Bootstrapping,262.339
+LayerNorm1,1.570
+2nd Bootstrapping,257.161
+Intermediate Linear,285.985
+GELU,23.792
+Final Linear,60.880
+3rd Bootstrapping,251.493
+LayerNorm2,7.986
+4th Bootstrapping,254.402
+Total time for one layer [L2],1858.760
+Amortized time [L2],7.261
+Final output max abs [L2],14.585
+Attention Block,448.827
+SelfOutput,15.020
+1st Bootstrapping,262.305
+LayerNorm1,1.745
+2nd Bootstrapping,257.244
+Intermediate Linear,277.804
+GELU,23.521
+Final Linear,61.516
+3rd Bootstrapping,255.255
+LayerNorm2,8.043
+4th Bootstrapping,258.457
+Total time for one layer [L3],1869.736
+Amortized time [L3],7.304
+Final output max abs [L3],14.100
+Attention Block,443.646
+SelfOutput,14.857
+1st Bootstrapping,261.485
+LayerNorm1,1.510
+2nd Bootstrapping,249.765
+Intermediate Linear,287.027
+GELU,23.703
+Final Linear,60.254
+3rd Bootstrapping,250.731
+LayerNorm2,7.914
+4th Bootstrapping,251.166
+Total time for one layer [L4],1852.058
+Amortized time [L4],7.235
+Final output max abs [L4],14.404
+Attention Block,442.103
+SelfOutput,15.029
+1st Bootstrapping,257.954
+LayerNorm1,1.522
+2nd Bootstrapping,253.768
+Intermediate Linear,279.765
+GELU,24.180
+Final Linear,61.587
+3rd Bootstrapping,255.508
+LayerNorm2,8.325
+4th Bootstrapping,247.456
+Total time for one layer [L5],1847.197
+Amortized time [L5],7.216
+Final output max abs [L5],14.047
+Attention Block,443.284
+Attention Block,358.059
+SelfOutput,16.334
+1st Bootstrapping,249.370
+LayerNorm1,2.787
+2nd Bootstrapping,244.728
+Intermediate Linear,282.975
+GELU,24.706
+Final Linear,66.585
+3rd Bootstrapping,250.488
+LayerNorm2,9.658
+4th Bootstrapping,252.637
+Total time for one layer [L0],1758.326
+Amortized time [L0],6.868
+Final output max abs [L0],9.952
+Attention Block,442.466
+SelfOutput,16.831
+1st Bootstrapping,266.383
+LayerNorm1,1.594
+2nd Bootstrapping,255.133
+Intermediate Linear,278.104
+GELU,23.543
+Final Linear,66.905
+3rd Bootstrapping,249.567
+LayerNorm2,8.791
+4th Bootstrapping,252.701
+Total time for one layer [L1],1862.018
+Amortized time [L1],7.274
+Final output max abs [L1],11.315
+Attention Block,444.316
+SelfOutput,16.623
+1st Bootstrapping,257.117
+LayerNorm1,1.611
+2nd Bootstrapping,258.290
+Intermediate Linear,283.462
+GELU,23.734
+Final Linear,66.705
+3rd Bootstrapping,254.796
+LayerNorm2,9.015
+4th Bootstrapping,257.680
+Total time for one layer [L2],1873.349
+Amortized time [L2],7.318
+Final output max abs [L2],14.587
+Attention Block,449.628
+SelfOutput,16.638
+1st Bootstrapping,265.274
+LayerNorm1,1.627
+2nd Bootstrapping,262.830
+Intermediate Linear,291.558
+GELU,23.632
+Final Linear,66.350
+3rd Bootstrapping,257.972
+LayerNorm2,9.089
+4th Bootstrapping,253.883
+Total time for one layer [L3],1898.482
+Amortized time [L3],7.416
+Final output max abs [L3],13.939
+Attention Block,441.095
+SelfOutput,16.458
+1st Bootstrapping,260.965
+LayerNorm1,1.568
+2nd Bootstrapping,261.193
+Intermediate Linear,278.993
+GELU,23.736
+Final Linear,67.053
+3rd Bootstrapping,257.137
+LayerNorm2,9.041
+4th Bootstrapping,255.966
+Total time for one layer [L4],1873.205
+Amortized time [L4],7.317
+Final output max abs [L4],81.486
+Attention Block,444.507
+Attention Block,370.006
+SelfOutput,14.279
+1st Bootstrapping,260.584
+LayerNorm1,2.871
+2nd Bootstrapping,259.635
+Intermediate Linear,279.958
+GELU,24.532
+Final Linear,58.412
+3rd Bootstrapping,255.505
+LayerNorm2,9.302
+4th Bootstrapping,251.341
+Total time for one layer [L0],1786.425
+Amortized time [L0],6.978
+Final output max abs [L0],9.953
+Attention Block,473.869
+SelfOutput,14.389
+1st Bootstrapping,262.436
+LayerNorm1,1.656
+2nd Bootstrapping,252.467
+Intermediate Linear,281.903
+GELU,24.354
+Attention Block,362.612
+Attention Block,366.012
+SelfOutput,14.374
+1st Bootstrapping,258.187
+LayerNorm1,2.922
+2nd Bootstrapping,254.683
+Intermediate Linear,286.434
+GELU,24.844
+Final Linear,58.872
+Attention Block,364.276
+SelfOutput,14.214
+1st Bootstrapping,263.277
+LayerNorm1,2.688
+2nd Bootstrapping,255.905
+Intermediate Linear,284.933
+GELU,23.840
+Final Linear,58.034
+3rd Bootstrapping,250.262
+LayerNorm2,9.472
+4th Bootstrapping,251.390
+Total time for one layer [L0],1778.290
+Amortized time [L0],6.946
+Final output max abs [L0],9.944
+Attention Block,463.552
+SelfOutput,14.182
+1st Bootstrapping,258.877
+LayerNorm1,1.499
+2nd Bootstrapping,253.247
+Intermediate Linear,284.055
+GELU,24.495
+Final Linear,59.331
+3rd Bootstrapping,258.030
+LayerNorm2,9.220
+4th Bootstrapping,254.667
+Total time for one layer [L1],1881.154
+Amortized time [L1],7.348
+Final output max abs [L1],11.302
+Attention Block,458.921
+SelfOutput,14.439
+1st Bootstrapping,257.104
+LayerNorm1,1.696
+2nd Bootstrapping,255.506
+Intermediate Linear,283.469
+GELU,23.872
+Final Linear,58.000
+3rd Bootstrapping,255.676
+LayerNorm2,9.070
+4th Bootstrapping,254.806
+Total time for one layer [L2],1872.560
+Amortized time [L2],7.315
+Final output max abs [L2],14.583
+Attention Block,470.346
+SelfOutput,14.330
+1st Bootstrapping,258.423
+LayerNorm1,1.529
+2nd Bootstrapping,257.930
+Intermediate Linear,291.218
+GELU,23.687
+Final Linear,58.828
+3rd Bootstrapping,258.744
+LayerNorm2,9.223
+4th Bootstrapping,257.845
+Total time for one layer [L3],1902.102
+Amortized time [L3],7.430
+Final output max abs [L3],13.995
+Attention Block,467.091
+SelfOutput,14.528
+1st Bootstrapping,262.384
+LayerNorm1,1.634
+2nd Bootstrapping,258.461
+Intermediate Linear,291.261
+GELU,24.376
+Final Linear,57.872
+3rd Bootstrapping,257.912
+LayerNorm2,9.101
+4th Bootstrapping,258.225
+Total time for one layer [L4],1902.845
+Amortized time [L4],7.433
+Final output max abs [L4],14.389
+Attention Block,472.297
+SelfOutput,14.579
+1st Bootstrapping,264.889
+LayerNorm1,1.516
+2nd Bootstrapping,264.369
+Intermediate Linear,283.279
+GELU,23.818
+Final Linear,59.029
+3rd Bootstrapping,254.207
+LayerNorm2,8.898
+4th Bootstrapping,251.254
+Total time for one layer [L5],1898.138
+Amortized time [L5],7.415
+Final output max abs [L5],14.130
+Attention Block,466.842
+SelfOutput,14.479
+1st Bootstrapping,259.950
+LayerNorm1,1.509
+2nd Bootstrapping,258.502
+Intermediate Linear,285.797
+GELU,24.674
+Final Linear,58.055
+3rd Bootstrapping,253.846
+LayerNorm2,9.001
+4th Bootstrapping,255.820
+Total time for one layer [L6],1888.474
+Amortized time [L6],7.377
+Final output max abs [L6],12.358
+Attention Block,459.973
+SelfOutput,14.300
+1st Bootstrapping,257.223
+LayerNorm1,1.543
+2nd Bootstrapping,256.697
+Intermediate Linear,283.953
+GELU,24.163
+Final Linear,58.870
+3rd Bootstrapping,258.855
+LayerNorm2,9.056
+4th Bootstrapping,257.337
+Total time for one layer [L7],1881.970
+Amortized time [L7],7.351
+Final output max abs [L7],11.240
+Attention Block,468.589
+SelfOutput,14.464
+1st Bootstrapping,258.237
+LayerNorm1,1.526
+2nd Bootstrapping,257.234
+Intermediate Linear,286.237
+GELU,24.050
+Final Linear,58.333
+3rd Bootstrapping,256.428
+LayerNorm2,8.927
+4th Bootstrapping,254.277
+Total time for one layer [L8],1888.303
+Amortized time [L8],7.376
+Final output max abs [L8],81.486
+Attention Block,464.036
+Attention Block,385.142
+SelfOutput,18.001
+1st Bootstrapping,300.432
+LayerNorm1,2.782
+2nd Bootstrapping,302.155
+Intermediate Linear,421.978
+GELU,24.634
+Final Linear,61.653
+3rd Bootstrapping,290.268
+LayerNorm2,9.945
+4th Bootstrapping,303.177
+Total time for one layer [L0],2120.169
+Amortized time [L0],8.282
+Final output max abs [L0],9.955
+Attention Block,507.508
+SelfOutput,14.721
+1st Bootstrapping,297.685
+LayerNorm1,1.592
+2nd Bootstrapping,297.020
+Intermediate Linear,416.706
+GELU,24.641
+Final Linear,65.501
+3rd Bootstrapping,290.957
+LayerNorm2,9.074
+4th Bootstrapping,286.467
+Total time for one layer [L1],2211.873
+Amortized time [L1],8.640
+Final output max abs [L1],81.486
+Attention Block,390.014
+SelfOutput,19.367
+1st Bootstrapping,297.359
+LayerNorm1,2.996
+2nd Bootstrapping,303.252
+Intermediate Linear,421.745
+GELU,24.870
+Final Linear,65.949
+3rd Bootstrapping,295.318
+LayerNorm2,9.746
+4th Bootstrapping,312.696
+Total time for one layer [L0],2143.311
+Amortized time [L0],8.372
+Final output max abs [L0],81.486
+Attention Block,368.588
+SelfOutput,17.672
+1st Bootstrapping,301.391
+LayerNorm1,2.810
+2nd Bootstrapping,299.271
+Intermediate Linear,355.155
+GELU,23.239
+Final Linear,61.392
+3rd Bootstrapping,285.586
+LayerNorm2,8.794
+4th Bootstrapping,281.738
+Total time for one layer [L0],2005.635
+Amortized time [L0],7.835
+Final output max abs [L0],9.964
+Attention Block,465.369
+SelfOutput,14.694
+1st Bootstrapping,295.652
+LayerNorm1,1.466
+2nd Bootstrapping,294.008
+Intermediate Linear,350.079
+GELU,22.983
+Final Linear,64.304
+3rd Bootstrapping,287.491
+LayerNorm2,8.100
+4th Bootstrapping,292.623
+Total time for one layer [L1],2096.767
+Amortized time [L1],8.190
+Final output max abs [L1],11.357
+Attention Block,474.053
+SelfOutput,14.680
+1st Bootstrapping,288.949
+LayerNorm1,1.572
+2nd Bootstrapping,290.275
+Intermediate Linear,350.352
+GELU,23.107
+Final Linear,63.901
+3rd Bootstrapping,275.393
+LayerNorm2,7.969
+4th Bootstrapping,293.013
+Total time for one layer [L2],2083.265
+Amortized time [L2],8.138
+Final output max abs [L2],14.443
+Attention Block,473.034
+Attention Block,374.944
+Attention Block,386.087
+Attention Block,370.213
+SelfOutput,16.371
+1st Bootstrapping,290.558
+LayerNorm1,2.752
+2nd Bootstrapping,289.892
+Intermediate Linear,335.055
+GELU,24.192
+Final Linear,59.330
+3rd Bootstrapping,279.983
+LayerNorm2,8.386
+4th Bootstrapping,293.876
+Total time for one layer [L0],1970.609
+Amortized time [L0],7.698
+Final output max abs [L0],9.954
+Attention Block,474.532
+SelfOutput,14.086
+1st Bootstrapping,279.342
+LayerNorm1,1.567
+2nd Bootstrapping,283.530
+Intermediate Linear,349.776
+GELU,23.885
+Final Linear,61.282
+3rd Bootstrapping,284.252
+LayerNorm2,7.971
+4th Bootstrapping,290.787
+Total time for one layer [L1],2071.010
+Amortized time [L1],8.090
+Final output max abs [L1],11.314
+Attention Block,471.955
+SelfOutput,14.083
+1st Bootstrapping,289.430
+LayerNorm1,1.540
+2nd Bootstrapping,289.467
+Intermediate Linear,339.087
+GELU,24.106
+Final Linear,59.922
+3rd Bootstrapping,282.675
+LayerNorm2,8.116
+4th Bootstrapping,283.535
+Total time for one layer [L2],2063.917
+Amortized time [L2],8.062
+Final output max abs [L2],14.585
+Attention Block,507.985
+SelfOutput,14.681
+1st Bootstrapping,295.175
+LayerNorm1,1.598
+2nd Bootstrapping,302.530
+Intermediate Linear,457.440
+GELU,24.759
+Final Linear,62.598
+3rd Bootstrapping,285.745
+LayerNorm2,7.970
+4th Bootstrapping,295.274
+Total time for one layer [L3],2255.755
+Amortized time [L3],8.812
+Final output max abs [L3],81.486
+Attention Block,509.504
+SelfOutput,14.576
+Attention Block,390.600
+SelfOutput,16.770
+Attention Block,397.462
+SelfOutput,18.369
+1st Bootstrapping,300.375
+LayerNorm1,2.829
+Attention Block,445.092
+SelfOutput,19.226
+1st Bootstrapping,360.040
+LayerNorm1,3.442
+2nd Bootstrapping,321.460
+Intermediate Linear,594.167
+GELU,26.744
+Final Linear,73.057
+3rd Bootstrapping,328.424
+LayerNorm2,11.449
+4th Bootstrapping,376.666
+Total time for one layer [L0],2559.767
+Amortized time [L0],9.999
+Final output max abs [L0],9.952
+Attention Block,629.752
+SelfOutput,16.489
+1st Bootstrapping,340.158
+LayerNorm1,2.050
+2nd Bootstrapping,342.772
+Intermediate Linear,601.288
+GELU,26.632
+Final Linear,72.998
+3rd Bootstrapping,327.213
+LayerNorm2,14.069
+4th Bootstrapping,339.956
+Total time for one layer [L1],2713.378
+Amortized time [L1],10.599
+Final output max abs [L1],11.314
+Attention Block,607.402
+SelfOutput,15.692
+1st Bootstrapping,314.705
+LayerNorm1,1.587
+2nd Bootstrapping,329.316
+Intermediate Linear,733.880
+GELU,34.227
+Final Linear,64.657
+3rd Bootstrapping,315.096
+LayerNorm2,10.033
+4th Bootstrapping,311.724
+Total time for one layer [L2],2738.319
+Amortized time [L2],10.697
+Final output max abs [L2],14.585
+Attention Block,669.241
+SelfOutput,15.347
+1st Bootstrapping,331.612
+LayerNorm1,1.637
+2nd Bootstrapping,355.590
+Intermediate Linear,749.360
+GELU,33.142
+Final Linear,65.768
+3rd Bootstrapping,311.289
+LayerNorm2,10.241
+4th Bootstrapping,326.095
+Total time for one layer [L3],2869.323
+Amortized time [L3],11.208
+Final output max abs [L3],13.990
+Attention Block,664.470
+SelfOutput,18.674
+1st Bootstrapping,316.683
+LayerNorm1,1.687
+2nd Bootstrapping,315.154
+Intermediate Linear,503.215
+GELU,25.698
+Final Linear,83.905
+3rd Bootstrapping,304.208
+LayerNorm2,13.323
+4th Bootstrapping,317.738
+Total time for one layer [L4],2564.755
+Amortized time [L4],10.019
+Final output max abs [L4],14.336
+Attention Block,526.034
+SelfOutput,20.286
+1st Bootstrapping,313.758
+LayerNorm1,1.685
+2nd Bootstrapping,312.223
+Intermediate Linear,456.326
+GELU,25.157
+Final Linear,83.792
+3rd Bootstrapping,303.406
+LayerNorm2,10.277
+4th Bootstrapping,311.633
+Total time for one layer [L5],2364.576
+Amortized time [L5],9.237
+Final output max abs [L5],13.991
+Attention Block,534.255
+SelfOutput,20.081
+1st Bootstrapping,318.556
+LayerNorm1,1.730
+2nd Bootstrapping,316.220
+Intermediate Linear,452.849
+GELU,24.899
+Attention Block,377.163
+SelfOutput,17.885
+1st Bootstrapping,288.489
+LayerNorm1,2.679
+2nd Bootstrapping,287.943
+Intermediate Linear,360.221
+GELU,23.700
+Final Linear,62.181
+3rd Bootstrapping,280.039
+LayerNorm2,8.975
+4th Bootstrapping,292.896
+Total time for one layer [L0],2002.171
+Amortized time [L0],7.821
+Final output max abs [L0],9.945
+Attention Block,471.517
+SelfOutput,14.401
+1st Bootstrapping,288.612
+LayerNorm1,1.477
+2nd Bootstrapping,292.286
+Intermediate Linear,366.095
+GELU,23.544
+Final Linear,70.291
+3rd Bootstrapping,277.909
+LayerNorm2,18.138
+4th Bootstrapping,294.875
+Total time for one layer [L1],2119.145
+Amortized time [L1],8.278
+Final output max abs [L1],11.309
+Attention Block,467.533
+SelfOutput,16.550
+1st Bootstrapping,294.009
+LayerNorm1,1.457
+2nd Bootstrapping,294.826
+Intermediate Linear,349.761
+GELU,23.472
+Final Linear,72.175
+3rd Bootstrapping,279.476
+LayerNorm2,9.146
+4th Bootstrapping,292.244
+Total time for one layer [L2],2100.650
+Amortized time [L2],8.206
+Final output max abs [L2],14.583
+Attention Block,470.804
+SelfOutput,16.575
+1st Bootstrapping,291.456
+LayerNorm1,1.528
+2nd Bootstrapping,290.181
+Intermediate Linear,359.889
+GELU,23.116
+Final Linear,73.814
+3rd Bootstrapping,278.788
+LayerNorm2,9.308
+4th Bootstrapping,277.784
+Total time for one layer [L3],2093.242
+Amortized time [L3],8.177
+Final output max abs [L3],13.768
+Attention Block,458.938
+SelfOutput,16.624
+1st Bootstrapping,284.322
+LayerNorm1,1.632
+2nd Bootstrapping,291.014
+Intermediate Linear,357.420
+GELU,23.512
+Final Linear,70.732
+3rd Bootstrapping,279.700
+LayerNorm2,9.292
+4th Bootstrapping,290.909
+Total time for one layer [L4],2084.094
+Amortized time [L4],8.141
+Final output max abs [L4],14.039
+Attention Block,467.652
+SelfOutput,16.555
+1st Bootstrapping,300.720
+LayerNorm1,1.485
+2nd Bootstrapping,296.829
+Intermediate Linear,353.423
+GELU,23.454
+Final Linear,72.819
+3rd Bootstrapping,278.225
+LayerNorm2,9.119
+4th Bootstrapping,288.245
+Total time for one layer [L5],2108.524
+Amortized time [L5],8.236
+Final output max abs [L5],13.347
+Attention Block,469.170
+SelfOutput,16.650
+1st Bootstrapping,286.617
+LayerNorm1,1.515
+2nd Bootstrapping,292.717
+Intermediate Linear,359.430
+GELU,23.511
+Final Linear,70.607
+3rd Bootstrapping,278.009
+LayerNorm2,9.174
+4th Bootstrapping,289.898
+Total time for one layer [L6],2097.298
+Amortized time [L6],8.193
+Final output max abs [L6],10.758
+Attention Block,463.755
+SelfOutput,16.777
+1st Bootstrapping,285.838
+LayerNorm1,1.473
+2nd Bootstrapping,291.735
+Intermediate Linear,353.211
+GELU,23.549
+Final Linear,72.596
+3rd Bootstrapping,275.515
+LayerNorm2,9.208
+4th Bootstrapping,276.233
+Total time for one layer [L7],2069.891
+Amortized time [L7],8.086
+Final output max abs [L7],8.961
+Attention Block,459.022
+SelfOutput,16.743
+1st Bootstrapping,294.986
+LayerNorm1,1.504
+2nd Bootstrapping,299.543
+Intermediate Linear,352.726
+GELU,23.168
+Final Linear,73.697
+3rd Bootstrapping,281.475
+LayerNorm2,9.136
+4th Bootstrapping,296.090
+Total time for one layer [L8],2108.090
+Amortized time [L8],8.235
+Final output max abs [L8],8.740
+Attention Block,474.021
+SelfOutput,16.383
+1st Bootstrapping,284.001
+LayerNorm1,1.521
+2nd Bootstrapping,284.249
+Intermediate Linear,354.807
+GELU,23.602
+Final Linear,69.294
+3rd Bootstrapping,273.651
+LayerNorm2,8.986
+4th Bootstrapping,284.895
+Total time for one layer [L9],2075.409
+Amortized time [L9],8.107
+Final output max abs [L9],9.008
+Attention Block,461.796
+SelfOutput,16.583
+1st Bootstrapping,285.505
+LayerNorm1,1.461
+2nd Bootstrapping,282.145
+Intermediate Linear,347.901
+GELU,23.170
+Final Linear,69.484
+3rd Bootstrapping,274.278
+LayerNorm2,9.006
+4th Bootstrapping,288.877
+Total time for one layer [L10],2060.207
+Amortized time [L10],8.048
+Final output max abs [L10],8.729
+Attention Block,466.422
+SelfOutput,16.405
+1st Bootstrapping,287.199
+LayerNorm1,1.481
+2nd Bootstrapping,286.713
+Intermediate Linear,357.406
+GELU,23.366
+Final Linear,70.362
+3rd Bootstrapping,279.454
+LayerNorm2,9.095
+4th Bootstrapping,291.176
+Total time for one layer [L11],2089.078
+Amortized time [L11],8.160
+Final output max abs [L11],81.486
+Attention Block,368.996
+SelfOutput,18.655
+1st Bootstrapping,290.892
+LayerNorm1,2.763
+2nd Bootstrapping,285.318
+Attention Block,371.113
+SelfOutput,17.303
+1st Bootstrapping,287.053
+LayerNorm1,2.736
+2nd Bootstrapping,280.353
+Intermediate Linear,337.899
+GELU,24.062
+Final Linear,62.692
+3rd Bootstrapping,278.516
+LayerNorm2,8.252
+4th Bootstrapping,289.420
+Total time for one layer [L0],1959.399
+Amortized time [L0],7.654
+Final output max abs [L0],9.955
+Attention Block,468.834
+SelfOutput,14.342
+1st Bootstrapping,287.546
+LayerNorm1,1.615
+2nd Bootstrapping,285.478
+Intermediate Linear,348.536
+GELU,24.122
+Final Linear,61.376
+3rd Bootstrapping,286.239
+LayerNorm2,7.963
+4th Bootstrapping,295.830
+Total time for one layer [L1],2081.880
+Amortized time [L1],8.132
+Final output max abs [L1],11.311
+Attention Block,468.658
+SelfOutput,14.458
+1st Bootstrapping,297.286
+LayerNorm1,1.547
+2nd Bootstrapping,295.726
+Attention Block,372.500
+SelfOutput,17.575
+1st Bootstrapping,294.948
+LayerNorm1,2.784
+2nd Bootstrapping,296.523
+Intermediate Linear,342.679
+GELU,24.213
+Final Linear,59.974
+3rd Bootstrapping,289.005
+LayerNorm2,8.892
+4th Bootstrapping,303.515
+Total time for one layer [L0],2012.609
+Amortized time [L0],7.862
+Final output max abs [L0],9.957
+Attention Block,493.825
+SelfOutput,14.357
+1st Bootstrapping,300.702
+LayerNorm1,1.557
+2nd Bootstrapping,299.540
+Intermediate Linear,350.138
+GELU,24.071
+Final Linear,60.623
+3rd Bootstrapping,286.010
+LayerNorm2,8.230
+4th Bootstrapping,296.711
+Total time for one layer [L1],2135.765
+Amortized time [L1],8.343
+Final output max abs [L1],11.314
+Attention Block,470.108
+SelfOutput,14.218
+1st Bootstrapping,286.014
+LayerNorm1,1.543
+2nd Bootstrapping,291.862
+Intermediate Linear,352.761
+GELU,24.437
+Final Linear,59.775
+3rd Bootstrapping,285.938
+LayerNorm2,8.124
+4th Bootstrapping,292.321
+Total time for one layer [L2],2087.100
+Amortized time [L2],8.153
+Final output max abs [L2],81.486
+Attention Block,369.726
+SelfOutput,17.719
+1st Bootstrapping,298.353
+LayerNorm1,2.782
+2nd Bootstrapping,282.705
+Intermediate Linear,333.633
+GELU,24.264
+Final Linear,61.533
+3rd Bootstrapping,282.497
+LayerNorm2,8.955
+4th Bootstrapping,296.563
+Total time for one layer [L0],1978.729
+Amortized time [L0],7.729
+Final output max abs [L0],9.957
+Attention Block,473.080
+SelfOutput,14.657
+1st Bootstrapping,284.013
+LayerNorm1,1.526
+2nd Bootstrapping,279.760
+Intermediate Linear,339.648
+GELU,24.296
+Final Linear,63.665
+3rd Bootstrapping,283.725
+LayerNorm2,8.438
+4th Bootstrapping,295.430
+Total time for one layer [L1],2068.238
+Amortized time [L1],8.079
+Final output max abs [L1],11.317
+Attention Block,470.157
+SelfOutput,14.668
+1st Bootstrapping,281.452
+LayerNorm1,1.539
+2nd Bootstrapping,283.354
+Intermediate Linear,338.025
+GELU,24.120
+Final Linear,62.151
+3rd Bootstrapping,280.090
+LayerNorm2,8.234
+4th Bootstrapping,290.068
+Total time for one layer [L2],2053.859
+Amortized time [L2],8.023
+Final output max abs [L2],14.596
+Attention Block,472.710
+SelfOutput,14.781
+1st Bootstrapping,290.592
+LayerNorm1,1.610
+2nd Bootstrapping,287.847
+Intermediate Linear,349.488
+GELU,24.231
+Final Linear,63.197
+3rd Bootstrapping,278.232
+LayerNorm2,8.273
+4th Bootstrapping,290.198
+Total time for one layer [L3],2081.159
+Amortized time [L3],8.130
+Final output max abs [L3],13.673
+Attention Block,468.215
+SelfOutput,14.848
+1st Bootstrapping,285.678
+LayerNorm1,1.524
+2nd Bootstrapping,288.783
+Intermediate Linear,332.066
+GELU,24.131
+Final Linear,65.777
+3rd Bootstrapping,280.355
+LayerNorm2,8.304
+4th Bootstrapping,288.848
+Total time for one layer [L4],2058.530
+Amortized time [L4],8.041
+Final output max abs [L4],14.075
+Attention Block,485.522
+SelfOutput,15.089
+1st Bootstrapping,291.057
+LayerNorm1,1.520
+2nd Bootstrapping,298.681
+Intermediate Linear,342.538
+GELU,24.152
+Final Linear,67.313
+3rd Bootstrapping,277.370
+LayerNorm2,8.456
+4th Bootstrapping,292.130
+Total time for one layer [L5],2103.828
+Amortized time [L5],8.218
+Final output max abs [L5],13.794
+Attention Block,508.470
+SelfOutput,14.900
+1st Bootstrapping,296.612
+LayerNorm1,1.563
+2nd Bootstrapping,296.200
+Intermediate Linear,342.248
+GELU,24.100
+Final Linear,65.094
+3rd Bootstrapping,284.585
+LayerNorm2,8.420
+4th Bootstrapping,290.059
+Total time for one layer [L6],2132.251
+Amortized time [L6],8.329
+Final output max abs [L6],11.859
+Attention Block,472.986
+SelfOutput,14.958
+1st Bootstrapping,291.241
+LayerNorm1,1.605
+2nd Bootstrapping,298.251
+Intermediate Linear,338.090
+GELU,24.219
+Final Linear,64.463
+3rd Bootstrapping,289.164
+LayerNorm2,8.546
+4th Bootstrapping,303.379
+Total time for one layer [L7],2106.903
+Amortized time [L7],8.230
+Final output max abs [L7],10.562
+Attention Block,472.425
+SelfOutput,14.807
+1st Bootstrapping,300.903
+LayerNorm1,1.568
+2nd Bootstrapping,294.857
+Intermediate Linear,352.260
+GELU,23.947
+Final Linear,63.466
+3rd Bootstrapping,286.846
+LayerNorm2,8.465
+4th Bootstrapping,302.583
+Total time for one layer [L8],2122.127
+Amortized time [L8],8.290
+Final output max abs [L8],9.805
+Attention Block,493.384
+SelfOutput,16.699
+1st Bootstrapping,301.650
+LayerNorm1,1.618
+2nd Bootstrapping,307.509
+Intermediate Linear,370.657
+GELU,24.824
+Final Linear,70.517
+3rd Bootstrapping,294.649
+LayerNorm2,9.629
+4th Bootstrapping,304.734
+Total time for one layer [L9],2195.869
+Amortized time [L9],8.578
+Final output max abs [L9],9.078
+Attention Block,482.242
+SelfOutput,16.685
+1st Bootstrapping,311.764
+LayerNorm1,1.606
+2nd Bootstrapping,310.202
+Intermediate Linear,359.291
+GELU,24.776
+Final Linear,68.679
+3rd Bootstrapping,296.177
+LayerNorm2,9.953
+4th Bootstrapping,306.581
+Total time for one layer [L10],2187.955
+Amortized time [L10],8.547
+Final output max abs [L10],7.445
+Attention Block,376.121
+SelfOutput,17.637
+1st Bootstrapping,302.864
+LayerNorm1,2.855
+2nd Bootstrapping,290.086
+Intermediate Linear,355.732
+GELU,24.007
+Final Linear,63.182
+3rd Bootstrapping,313.249
+LayerNorm2,9.362
+4th Bootstrapping,310.364
+Total time for one layer [L0],2065.457
+Amortized time [L0],8.068
+Final output max abs [L0],9.956
+Attention Block,477.806
+SelfOutput,14.897
+1st Bootstrapping,303.737
+LayerNorm1,1.555
+2nd Bootstrapping,302.782
+Intermediate Linear,354.189
+GELU,24.188
+Final Linear,61.985
+3rd Bootstrapping,293.421
+LayerNorm2,8.392
+4th Bootstrapping,308.481
+Total time for one layer [L1],2151.433
+Amortized time [L1],8.404
+Final output max abs [L1],11.315
+Attention Block,485.914
+SelfOutput,15.024
+1st Bootstrapping,297.908
+LayerNorm1,1.627
+2nd Bootstrapping,308.504
+Intermediate Linear,352.859
+GELU,24.165
+Final Linear,63.275
+3rd Bootstrapping,292.611
+LayerNorm2,8.435
+4th Bootstrapping,290.918
+Total time for one layer [L2],2141.240
+Amortized time [L2],8.364
+Final output max abs [L2],14.597
+Attention Block,480.778
+SelfOutput,14.814
+1st Bootstrapping,310.585
+LayerNorm1,1.583
+2nd Bootstrapping,298.462
+Intermediate Linear,352.753
+GELU,24.007
+Final Linear,62.096
+3rd Bootstrapping,289.046
+LayerNorm2,8.348
+4th Bootstrapping,296.249
+Total time for one layer [L3],2138.719
+Amortized time [L3],8.354
+Final output max abs [L3],13.663
+Attention Block,477.696
+SelfOutput,14.732
+1st Bootstrapping,309.002
+LayerNorm1,1.528
+2nd Bootstrapping,299.589
+Intermediate Linear,364.360
+GELU,24.129
+Final Linear,62.200
+3rd Bootstrapping,290.323
+LayerNorm2,8.574
+4th Bootstrapping,300.829
+Total time for one layer [L4],2152.962
+Amortized time [L4],8.410
+Final output max abs [L4],14.083
+Attention Block,472.965
+SelfOutput,14.762
+1st Bootstrapping,288.181
+LayerNorm1,1.532
+2nd Bootstrapping,281.480
+Intermediate Linear,334.498
+GELU,24.124
+Final Linear,62.488
+3rd Bootstrapping,286.069
+LayerNorm2,8.431
+4th Bootstrapping,290.371
+Total time for one layer [L5],2064.901
+Amortized time [L5],8.066
+Final output max abs [L5],13.882
+Attention Block,494.072
+SelfOutput,14.939
+1st Bootstrapping,290.500
+LayerNorm1,1.521
+2nd Bootstrapping,288.396
+Intermediate Linear,337.313
+GELU,24.087
+Final Linear,64.182
+3rd Bootstrapping,278.545
+LayerNorm2,8.294
+4th Bootstrapping,279.145
+Total time for one layer [L6],2080.996
+Amortized time [L6],8.129
+Final output max abs [L6],11.999
+Attention Block,465.912
+SelfOutput,14.833
+1st Bootstrapping,283.706
+LayerNorm1,1.514
+2nd Bootstrapping,285.860
+Intermediate Linear,339.908
+GELU,24.085
+Final Linear,62.282
+3rd Bootstrapping,277.639
+LayerNorm2,8.267
+4th Bootstrapping,283.274
+Total time for one layer [L7],2047.281
+Amortized time [L7],7.997
+Final output max abs [L7],10.676
+Attention Block,467.336
+SelfOutput,14.706
+1st Bootstrapping,289.087
+LayerNorm1,1.514
+2nd Bootstrapping,279.683
+Intermediate Linear,331.297
+GELU,24.099
+Final Linear,62.678
+3rd Bootstrapping,276.331
+LayerNorm2,8.170
+4th Bootstrapping,280.999
+Total time for one layer [L8],2035.902
+Amortized time [L8],7.953
+Final output max abs [L8],9.926
+Attention Block,471.184
+SelfOutput,14.956
+1st Bootstrapping,286.540
+LayerNorm1,1.525
+2nd Bootstrapping,282.376
+Intermediate Linear,343.635
+GELU,24.118
+Final Linear,63.272
+3rd Bootstrapping,283.195
+LayerNorm2,8.542
+4th Bootstrapping,285.424
+Total time for one layer [L9],2064.767
+Amortized time [L9],8.065
+Final output max abs [L9],81.486
+Attention Block,368.553
+SelfOutput,18.152
+1st Bootstrapping,298.194
+LayerNorm1,2.741
+2nd Bootstrapping,294.699
+Intermediate Linear,338.662
+GELU,24.242
+Final Linear,63.238
+Attention Block,370.774
+SelfOutput,18.163
+1st Bootstrapping,286.138
+LayerNorm1,2.748
+2nd Bootstrapping,279.463
+Intermediate Linear,339.585
+GELU,24.131
+Final Linear,61.776
+3rd Bootstrapping,278.619
+LayerNorm2,8.439
+4th Bootstrapping,293.265
+Total time for one layer [L0],1963.101
+Amortized time [L0],7.668
+Final output max abs [L0],9.951
+Attention Block,468.446
+SelfOutput,14.910
+1st Bootstrapping,278.505
+LayerNorm1,1.504
+2nd Bootstrapping,286.181
+Intermediate Linear,337.044
+GELU,24.519
+Final Linear,66.465
+3rd Bootstrapping,283.073
+LayerNorm2,8.032
+4th Bootstrapping,279.335
+Total time for one layer [L1],2048.015
+Amortized time [L1],8.000
+Final output max abs [L1],11.307
+Attention Block,465.891
+SelfOutput,14.998
+1st Bootstrapping,299.006
+LayerNorm1,1.566
+2nd Bootstrapping,296.829
+Intermediate Linear,353.905
+GELU,24.422
+Final Linear,66.149
+3rd Bootstrapping,279.194
+LayerNorm2,7.986
+4th Bootstrapping,291.886
+Total time for one layer [L2],2101.833
+Amortized time [L2],8.210
+Final output max abs [L2],14.585
+Attention Block,470.654
+SelfOutput,14.986
+1st Bootstrapping,297.109
+LayerNorm1,1.634
+2nd Bootstrapping,294.759
+Intermediate Linear,336.479
+GELU,24.089
+Final Linear,65.719
+3rd Bootstrapping,283.177
+LayerNorm2,7.937
+4th Bootstrapping,293.667
+Total time for one layer [L3],2090.213
+Amortized time [L3],8.165
+Final output max abs [L3],13.698
+Attention Block,478.085
+SelfOutput,15.085
+1st Bootstrapping,303.943
+LayerNorm1,1.594
+2nd Bootstrapping,296.539
+Intermediate Linear,352.864
+GELU,24.662
+Final Linear,62.999
+3rd Bootstrapping,293.425
+LayerNorm2,7.946
+4th Bootstrapping,300.925
+Total time for one layer [L4],2138.067
+Amortized time [L4],8.352
+Final output max abs [L4],14.153
+Attention Block,477.919
+SelfOutput,14.794
+1st Bootstrapping,308.618
+LayerNorm1,1.707
+2nd Bootstrapping,308.829
+Intermediate Linear,356.179
+GELU,24.252
+Attention Block,389.648
+SelfOutput,19.584
+1st Bootstrapping,294.676
+LayerNorm1,2.855
+2nd Bootstrapping,293.135
+Intermediate Linear,409.132
+GELU,25.111
+Final Linear,66.253
+3rd Bootstrapping,284.452
+LayerNorm2,17.616
+4th Bootstrapping,294.085
+Total time for one layer [L0],2096.546
+Amortized time [L0],8.190
+Final output max abs [L0],9.949
+Attention Block,505.927
+SelfOutput,14.733
+1st Bootstrapping,305.758
+LayerNorm1,1.553
+2nd Bootstrapping,295.549
+Intermediate Linear,355.929
+GELU,24.750
+Final Linear,63.326
+3rd Bootstrapping,286.663
+LayerNorm2,8.097
+4th Bootstrapping,300.748
+Total time for one layer [L1],2163.035
+Amortized time [L1],8.449
+Final output max abs [L1],11.305
+Attention Block,480.429
+SelfOutput,14.146
+1st Bootstrapping,286.686
+LayerNorm1,1.600
+2nd Bootstrapping,293.712
+Intermediate Linear,353.180
+GELU,24.186
+Final Linear,62.143
+3rd Bootstrapping,284.013
+LayerNorm2,8.176
+4th Bootstrapping,293.421
+Total time for one layer [L2],2101.693
+Amortized time [L2],8.210
+Final output max abs [L2],14.586
+Attention Block,488.650
+SelfOutput,14.617
+1st Bootstrapping,296.003
+LayerNorm1,1.579
+2nd Bootstrapping,294.223
+Intermediate Linear,366.332
+GELU,24.259
+Final Linear,61.891
+3rd Bootstrapping,284.139
+LayerNorm2,7.960
+4th Bootstrapping,296.728
+Total time for one layer [L3],2136.383
+Amortized time [L3],8.345
+Final output max abs [L3],13.688
+Attention Block,478.218
+SelfOutput,14.548
+1st Bootstrapping,297.388
+LayerNorm1,1.569
+2nd Bootstrapping,286.498
+Intermediate Linear,352.652
+GELU,24.297
+Final Linear,64.283
+3rd Bootstrapping,286.353
+LayerNorm2,8.278
+4th Bootstrapping,290.487
+Total time for one layer [L4],2104.570
+Amortized time [L4],8.221
+Final output max abs [L4],14.139
+Attention Block,480.529
+SelfOutput,14.629
+1st Bootstrapping,297.526
+LayerNorm1,1.606
+2nd Bootstrapping,299.686
+Intermediate Linear,352.293
+GELU,24.654
+Final Linear,66.559
+3rd Bootstrapping,288.202
+LayerNorm2,8.254
+4th Bootstrapping,302.920
+Total time for one layer [L5],2136.859
+Amortized time [L5],8.347
+Final output max abs [L5],14.046
+Attention Block,493.646
+SelfOutput,14.766
+1st Bootstrapping,292.297
+LayerNorm1,1.553
+2nd Bootstrapping,293.637
+Intermediate Linear,415.396
+GELU,24.377
+Final Linear,63.481
+3rd Bootstrapping,285.379
+LayerNorm2,8.318
+4th Bootstrapping,299.201
+Total time for one layer [L6],2192.052
+Amortized time [L6],8.563
+Final output max abs [L6],12.149
+Attention Block,485.065
+SelfOutput,14.676
+1st Bootstrapping,291.002
+LayerNorm1,1.690
+2nd Bootstrapping,296.386
+Intermediate Linear,357.866
+GELU,24.427
+Final Linear,62.414
+3rd Bootstrapping,284.235
+LayerNorm2,8.184
+4th Bootstrapping,294.581
+Total time for one layer [L7],2120.526
+Amortized time [L7],8.283
+Final output max abs [L7],10.688
+Attention Block,486.757
+SelfOutput,14.813
+1st Bootstrapping,304.815
+LayerNorm1,1.618
+2nd Bootstrapping,296.123
+Intermediate Linear,371.596
+GELU,24.488
+Final Linear,63.041
+3rd Bootstrapping,290.141
+LayerNorm2,8.067
+4th Bootstrapping,295.754
+Total time for one layer [L8],2157.213
+Amortized time [L8],8.427
+Final output max abs [L8],9.906
+Attention Block,487.849
+SelfOutput,14.661
+1st Bootstrapping,292.580
+LayerNorm1,1.599
+2nd Bootstrapping,295.189
+Intermediate Linear,421.304
+GELU,24.710
+Final Linear,62.334
+3rd Bootstrapping,284.214
+LayerNorm2,8.044
+4th Bootstrapping,293.346
+Total time for one layer [L9],2185.830
+Amortized time [L9],8.538
+Final output max abs [L9],9.162
+Attention Block,485.249
+SelfOutput,14.611
+1st Bootstrapping,294.929
+LayerNorm1,1.601
+2nd Bootstrapping,289.026
+Intermediate Linear,414.799
+GELU,24.813
+Final Linear,65.205
+3rd Bootstrapping,285.074
+LayerNorm2,8.109
+4th Bootstrapping,290.376
+Total time for one layer [L10],2173.794
+Amortized time [L10],8.491
+Final output max abs [L10],7.314
+Attention Block,479.718
+SelfOutput,14.570
+1st Bootstrapping,290.760
+LayerNorm1,1.585
+2nd Bootstrapping,299.472
+Intermediate Linear,396.676
+GELU,24.481
+Final Linear,65.249
+3rd Bootstrapping,286.523
+LayerNorm2,8.090
+4th Bootstrapping,296.080
+Total time for one layer [L11],2163.204
+Amortized time [L11],8.450
+Final output max abs [L11],8.104
+Attention Block,372.012
+SelfOutput,17.734
+1st Bootstrapping,566.258
+LayerNorm1,2.561
+2nd Bootstrapping,549.072
+Intermediate Linear,352.000
+GELU,24.071
+Final Linear,63.420
+3rd Bootstrapping,555.081
+LayerNorm2,7.684
+4th Bootstrapping,527.148
+Total time for one layer [L0],3037.041
+Amortized time [L0],11.863
+Final output max abs [L0],9.986
+Attention Block,416.169
+SelfOutput,14.803
+1st Bootstrapping,524.006
+LayerNorm1,1.366
+2nd Bootstrapping,541.525
+Intermediate Linear,336.360
+GELU,24.870
+Final Linear,64.724
+3rd Bootstrapping,540.497
+LayerNorm2,7.162
+4th Bootstrapping,536.225
+Total time for one layer [L1],3007.706
+Amortized time [L1],11.749
+Final output max abs [L1],11.353
+Attention Block,414.468
+SelfOutput,15.338
+1st Bootstrapping,557.948
+LayerNorm1,1.357
+2nd Bootstrapping,549.257
+Intermediate Linear,383.090
+GELU,24.392
+Final Linear,68.194
+3rd Bootstrapping,571.532
+LayerNorm2,15.823
+4th Bootstrapping,547.060
+Total time for one layer [L2],3148.459
+Amortized time [L2],12.299
+Final output max abs [L2],14.668
+Attention Block,430.376
+SelfOutput,16.526
+1st Bootstrapping,580.721
+LayerNorm1,1.399
+2nd Bootstrapping,575.078
+Intermediate Linear,367.971
+GELU,24.630
+Final Linear,68.767
+3rd Bootstrapping,582.359
+LayerNorm2,7.869
+4th Bootstrapping,549.339
+Total time for one layer [L3],3205.035
+Amortized time [L3],12.520
+Final output max abs [L3],13.805
+Attention Block,422.170
+SelfOutput,16.404
+1st Bootstrapping,550.918
+LayerNorm1,1.387
+2nd Bootstrapping,563.239
+Intermediate Linear,361.691
+GELU,24.442
+Final Linear,67.797
+3rd Bootstrapping,574.129
+LayerNorm2,7.932
+4th Bootstrapping,545.500
+Total time for one layer [L4],3135.610
+Amortized time [L4],12.248
+Final output max abs [L4],14.292
+Attention Block,421.262
+SelfOutput,16.305
+1st Bootstrapping,547.299
+LayerNorm1,1.351
+2nd Bootstrapping,570.770
+Intermediate Linear,356.039
+GELU,24.414
+Final Linear,68.356
+3rd Bootstrapping,577.002
+LayerNorm2,7.944
+4th Bootstrapping,546.578
+Total time for one layer [L5],3137.321
+Amortized time [L5],12.255
+Final output max abs [L5],14.248
+Attention Block,430.327
+SelfOutput,16.503
+1st Bootstrapping,550.888
+LayerNorm1,1.381
+2nd Bootstrapping,553.187
+Intermediate Linear,381.158
+GELU,24.545
+Final Linear,68.114
+3rd Bootstrapping,574.721
+LayerNorm2,8.055
+4th Bootstrapping,553.738
+Total time for one layer [L6],3162.617
+Amortized time [L6],12.354
+Final output max abs [L6],12.381
+Attention Block,423.918
+SelfOutput,16.555
+1st Bootstrapping,543.967
+LayerNorm1,1.389
+2nd Bootstrapping,570.343
+Intermediate Linear,433.946
+GELU,24.539
+Final Linear,68.325
+3rd Bootstrapping,568.149
+LayerNorm2,8.055
+4th Bootstrapping,541.971
+Total time for one layer [L7],3201.158
+Amortized time [L7],12.505
+Final output max abs [L7],10.940
+Attention Block,426.054
+SelfOutput,16.342
+1st Bootstrapping,555.127
+LayerNorm1,1.380
+2nd Bootstrapping,569.074
+Intermediate Linear,386.848
+GELU,24.591
+Final Linear,68.670
+3rd Bootstrapping,567.206
+LayerNorm2,8.073
+4th Bootstrapping,559.427
+Total time for one layer [L8],3182.794
+Amortized time [L8],12.433
+Final output max abs [L8],10.250
+Attention Block,425.254
+SelfOutput,16.257
+1st Bootstrapping,550.157
+LayerNorm1,1.381
+2nd Bootstrapping,561.184
+Intermediate Linear,358.994
+GELU,24.580
+Final Linear,67.277
+3rd Bootstrapping,568.159
+LayerNorm2,7.920
+4th Bootstrapping,554.674
+Total time for one layer [L9],3135.836
+Amortized time [L9],12.249
+Final output max abs [L9],9.479
+Attention Block,408.247
+SelfOutput,16.295
+1st Bootstrapping,540.948
+LayerNorm1,1.379
+2nd Bootstrapping,566.865
+Intermediate Linear,347.891
+GELU,24.465
+Final Linear,67.649
+3rd Bootstrapping,558.730
+LayerNorm2,7.850
+4th Bootstrapping,541.923
+Total time for one layer [L10],3082.241
+Amortized time [L10],12.040
+Final output max abs [L10],7.586
+Attention Block,418.780
+SelfOutput,16.564
+1st Bootstrapping,549.137
+LayerNorm1,1.386
+2nd Bootstrapping,562.449
+Intermediate Linear,357.255
+GELU,24.425
+Final Linear,67.972
+3rd Bootstrapping,559.131
+LayerNorm2,7.795
+4th Bootstrapping,537.525
+Total time for one layer [L11],3102.419
+Amortized time [L11],12.119
+Final output max abs [L11],8.263
+Attention Block,406.383
+SelfOutput,19.112
+1st Bootstrapping,296.789
+LayerNorm1,2.788
+2nd Bootstrapping,289.559
+Attention Block,403.635
+SelfOutput,19.395
+1st Bootstrapping,295.722
+LayerNorm1,2.952
+2nd Bootstrapping,311.385
+Intermediate Linear,455.031
+GELU,29.355
+Final Linear,60.297
+3rd Bootstrapping,294.247
+LayerNorm2,9.712
+4th Bootstrapping,300.986
+Total time for one layer [L0],2182.720
+Amortized time [L0],8.526
+Final output max abs [L0],9.648
+Attention Block,509.828
+SelfOutput,14.611
+1st Bootstrapping,296.761
+LayerNorm1,1.505
+2nd Bootstrapping,298.360
+Intermediate Linear,499.801
+GELU,30.131
+Final Linear,71.974
+3rd Bootstrapping,300.901
+LayerNorm2,15.224
+4th Bootstrapping,312.135
+Total time for one layer [L1],2351.230
+Amortized time [L1],9.184
+Final output max abs [L1],11.246
+Attention Block,498.633
+SelfOutput,14.720
+1st Bootstrapping,288.291
+LayerNorm1,1.505
+2nd Bootstrapping,309.582
+Intermediate Linear,455.463
+GELU,29.370
+Final Linear,61.301
+3rd Bootstrapping,281.516
+LayerNorm2,14.329
+4th Bootstrapping,289.842
+Total time for one layer [L2],2244.553
+Amortized time [L2],8.768
+Final output max abs [L2],14.628
+Attention Block,531.826
+SelfOutput,14.591
+1st Bootstrapping,311.295
+LayerNorm1,1.669
+2nd Bootstrapping,305.268
+Intermediate Linear,437.344
+GELU,29.587
+Final Linear,60.141
+3rd Bootstrapping,300.400
+LayerNorm2,9.446
+4th Bootstrapping,321.212
+Total time for one layer [L3],2322.780
+Amortized time [L3],9.073
+Final output max abs [L3],12.977
+Attention Block,500.796
+SelfOutput,14.495
+1st Bootstrapping,303.379
+LayerNorm1,1.483
+2nd Bootstrapping,297.206
+Intermediate Linear,435.911
+GELU,29.324
+Final Linear,60.875
+3rd Bootstrapping,298.327
+LayerNorm2,9.100
+4th Bootstrapping,301.773
+Total time for one layer [L4],2252.666
+Amortized time [L4],8.799
+Final output max abs [L4],13.118
+Attention Block,495.014
+SelfOutput,14.495
+1st Bootstrapping,300.250
+LayerNorm1,1.488
+2nd Bootstrapping,295.091
+Intermediate Linear,448.582
+GELU,29.378
+Final Linear,62.233
+3rd Bootstrapping,294.691
+LayerNorm2,9.298
+4th Bootstrapping,307.225
+Total time for one layer [L5],2257.745
+Amortized time [L5],8.819
+Final output max abs [L5],12.390
+Attention Block,510.476
+SelfOutput,14.335
+1st Bootstrapping,299.851
+LayerNorm1,1.592
+2nd Bootstrapping,348.028
+Intermediate Linear,497.546
+GELU,29.147
+Final Linear,60.399
+3rd Bootstrapping,341.784
+LayerNorm2,9.449
+4th Bootstrapping,427.640
+Total time for one layer [L6],2540.247
+Amortized time [L6],9.923
+Final output max abs [L6],10.653
+Attention Block,552.149
+SelfOutput,14.776
+1st Bootstrapping,329.208
+LayerNorm1,1.534
+2nd Bootstrapping,402.068
+Intermediate Linear,616.932
+GELU,29.405
+Final Linear,61.030
+3rd Bootstrapping,327.639
+LayerNorm2,9.286
+4th Bootstrapping,420.584
+Total time for one layer [L7],2764.612
+Amortized time [L7],10.799
+Final output max abs [L7],10.253
+Attention Block,635.246
+SelfOutput,14.652
+1st Bootstrapping,319.191
+LayerNorm1,1.743
+2nd Bootstrapping,467.654
+Intermediate Linear,546.486
+GELU,29.633
+Final Linear,60.666
+3rd Bootstrapping,337.023
+LayerNorm2,9.385
+4th Bootstrapping,379.622
+Total time for one layer [L8],2801.302
+Amortized time [L8],10.943
+Final output max abs [L8],10.086
+Attention Block,569.766
+SelfOutput,14.661
+1st Bootstrapping,355.317
+LayerNorm1,2.028
+2nd Bootstrapping,355.716
+Intermediate Linear,555.925
+GELU,29.949
+Final Linear,60.942
+3rd Bootstrapping,298.665
+LayerNorm2,9.280
+4th Bootstrapping,342.400
+Total time for one layer [L9],2594.649
+Amortized time [L9],10.135
+Final output max abs [L9],10.461
+Attention Block,626.420
+SelfOutput,15.479
+1st Bootstrapping,316.092
+LayerNorm1,1.567
+2nd Bootstrapping,362.920
+Intermediate Linear,527.784
+GELU,29.276
+Final Linear,60.416
+3rd Bootstrapping,375.012
+LayerNorm2,9.123
+4th Bootstrapping,425.770
+Total time for one layer [L10],2749.860
+Amortized time [L10],10.742
+Final output max abs [L10],10.942
+Attention Block,550.532
+SelfOutput,14.694
+1st Bootstrapping,338.610
+LayerNorm1,1.504
+2nd Bootstrapping,343.463
+Intermediate Linear,498.977
+GELU,29.831
+Final Linear,62.011
+3rd Bootstrapping,345.657
+LayerNorm2,9.689
+4th Bootstrapping,297.099
+Total time for one layer [L11],2492.067
+Amortized time [L11],9.735
+Final output max abs [L11],5.550
+Attention Block,377.693
+SelfOutput,17.589
+1st Bootstrapping,582.288
+LayerNorm1,2.528
+2nd Bootstrapping,570.969
+Intermediate Linear,363.670
+GELU,29.837
+Final Linear,60.566
+3rd Bootstrapping,590.583
+LayerNorm2,7.264
+4th Bootstrapping,550.739
+Total time for one layer [L0],3153.725
+Amortized time [L0],12.319
+Final output max abs [L0],9.681
+Attention Block,482.026
+SelfOutput,14.463
+1st Bootstrapping,545.054
+LayerNorm1,1.410
+2nd Bootstrapping,573.074
+Intermediate Linear,340.037
+GELU,29.688
+Final Linear,60.902
+3rd Bootstrapping,569.183
+LayerNorm2,6.942
+4th Bootstrapping,552.392
+Total time for one layer [L1],3175.171
+Amortized time [L1],12.403
+Final output max abs [L1],11.291
+Attention Block,406.820
+SelfOutput,14.418
+1st Bootstrapping,553.513
+LayerNorm1,1.349
+2nd Bootstrapping,564.705
+Intermediate Linear,351.749
+GELU,29.677
+Final Linear,62.424
+3rd Bootstrapping,560.309
+LayerNorm2,6.882
+4th Bootstrapping,537.371
+Total time for one layer [L2],3089.217
+Amortized time [L2],12.067
+Final output max abs [L2],14.708
+Attention Block,410.104
+SelfOutput,14.339
+1st Bootstrapping,543.098
+LayerNorm1,1.368
+2nd Bootstrapping,564.625
+Intermediate Linear,354.941
+GELU,30.078
+Final Linear,63.415
+3rd Bootstrapping,562.401
+LayerNorm2,7.100
+4th Bootstrapping,545.168
+Total time for one layer [L3],3096.638
+Amortized time [L3],12.096
+Final output max abs [L3],2748.671
+Attention Block,408.921
+SelfOutput,14.479
+Attention Block,368.317
+SelfOutput,16.229
+1st Bootstrapping,560.754
+LayerNorm1,2.520
+2nd Bootstrapping,554.377
+Intermediate Linear,341.633
+GELU,29.527
+Final Linear,60.024
+3rd Bootstrapping,566.292
+LayerNorm2,7.351
+4th Bootstrapping,542.098
+Total time for one layer [L0],3049.125
+Amortized time [L0],11.911
+Final output max abs [L0],9.680
+Attention Block,405.380
+SelfOutput,14.302
+1st Bootstrapping,536.787
+LayerNorm1,1.370
+2nd Bootstrapping,555.581
+Intermediate Linear,334.416
+GELU,29.470
+Final Linear,58.720
+3rd Bootstrapping,551.961
+LayerNorm2,6.918
+4th Bootstrapping,547.217
+Total time for one layer [L1],3042.123
+Amortized time [L1],11.883
+Final output max abs [L1],11.291
+Attention Block,407.155
+SelfOutput,14.055
+1st Bootstrapping,556.966
+LayerNorm1,1.361
+2nd Bootstrapping,559.183
+Intermediate Linear,349.455
+GELU,29.515
+Final Linear,59.361
+3rd Bootstrapping,555.702
+Attention Block,381.046
+SelfOutput,18.731
+1st Bootstrapping,310.998
+LayerNorm1,2.706
+2nd Bootstrapping,302.496
+Intermediate Linear,363.269
+GELU,29.792
+Final Linear,63.880
+3rd Bootstrapping,289.503
+LayerNorm2,7.990
+4th Bootstrapping,303.464
+Total time for one layer [L0],2073.876
+Amortized time [L0],8.101
+Final output max abs [L0],9.648
+Attention Block,485.199
+SelfOutput,15.035
+1st Bootstrapping,312.536
+LayerNorm1,1.553
+2nd Bootstrapping,320.957
+Intermediate Linear,368.403
+GELU,30.025
+Final Linear,63.232
+3rd Bootstrapping,300.301
+LayerNorm2,6.951
+4th Bootstrapping,311.071
+Total time for one layer [L1],2215.266
+Amortized time [L1],8.653
+Final output max abs [L1],11.246
+Attention Block,489.104
+SelfOutput,15.065
+1st Bootstrapping,310.011
+LayerNorm1,1.521
+2nd Bootstrapping,308.219
+Intermediate Linear,372.332
+GELU,30.023
+Final Linear,63.975
+3rd Bootstrapping,291.012
+LayerNorm2,6.835
+4th Bootstrapping,284.087
+Total time for one layer [L2],2172.185
+Amortized time [L2],8.485
+Final output max abs [L2],14.629
+Attention Block,486.340
+SelfOutput,14.819
+1st Bootstrapping,303.617
+LayerNorm1,1.601
+2nd Bootstrapping,309.866
+Intermediate Linear,355.520
+GELU,29.852
+Final Linear,61.279
+3rd Bootstrapping,291.158
+LayerNorm2,7.179
+4th Bootstrapping,275.323
+Total time for one layer [L3],2136.553
+Amortized time [L3],8.346
+Final output max abs [L3],12.980
+Attention Block,478.044
+SelfOutput,15.269
+1st Bootstrapping,307.415
+LayerNorm1,1.611
+2nd Bootstrapping,308.203
+Intermediate Linear,354.173
+GELU,30.096
+Final Linear,63.636
+3rd Bootstrapping,289.390
+LayerNorm2,6.945
+4th Bootstrapping,284.157
+Total time for one layer [L4],2138.940
+Amortized time [L4],8.355
+Final output max abs [L4],13.121
+Attention Block,485.361
+SelfOutput,14.996
+1st Bootstrapping,298.534
+LayerNorm1,1.599
+2nd Bootstrapping,298.876
+Intermediate Linear,371.113
+GELU,30.137
+Final Linear,63.321
+3rd Bootstrapping,287.924
+LayerNorm2,7.083
+4th Bootstrapping,286.809
+Total time for one layer [L5],2145.753
+Amortized time [L5],8.382
+Final output max abs [L5],12.395
+Attention Block,491.938
+SelfOutput,15.490
+1st Bootstrapping,306.446
+LayerNorm1,1.570
+2nd Bootstrapping,301.532
+Intermediate Linear,351.570
+GELU,30.111
+Final Linear,64.304
+3rd Bootstrapping,283.787
+LayerNorm2,6.702
+4th Bootstrapping,279.187
+Total time for one layer [L6],2132.637
+Amortized time [L6],8.331
+Final output max abs [L6],10.653
+Attention Block,477.740
+SelfOutput,14.976
+1st Bootstrapping,299.364
+LayerNorm1,1.566
+2nd Bootstrapping,291.462
+Intermediate Linear,342.473
+GELU,29.765
+Final Linear,62.074
+3rd Bootstrapping,281.675
+LayerNorm2,6.728
+4th Bootstrapping,290.176
+Total time for one layer [L7],2097.999
+Amortized time [L7],8.195
+Final output max abs [L7],10.253
+Attention Block,469.594
+SelfOutput,15.061
+1st Bootstrapping,301.102
+LayerNorm1,1.545
+2nd Bootstrapping,293.661
+Intermediate Linear,348.648
+GELU,29.898
+Final Linear,63.244
+3rd Bootstrapping,286.270
+LayerNorm2,6.697
+4th Bootstrapping,288.208
+Total time for one layer [L8],2103.928
+Amortized time [L8],8.218
+Final output max abs [L8],10.065
+Attention Block,483.974
+SelfOutput,14.802
+1st Bootstrapping,291.404
+LayerNorm1,1.555
+2nd Bootstrapping,300.295
+Intermediate Linear,346.172
+GELU,29.838
+Final Linear,64.835
+3rd Bootstrapping,280.687
+LayerNorm2,6.721
+4th Bootstrapping,286.744
+Total time for one layer [L9],2107.029
+Amortized time [L9],8.231
+Final output max abs [L9],10.458
+Attention Block,474.348
+SelfOutput,14.995
+1st Bootstrapping,286.386
+LayerNorm1,1.625
+2nd Bootstrapping,301.969
+Intermediate Linear,343.535
+GELU,29.647
+Final Linear,62.092
+3rd Bootstrapping,287.004
+LayerNorm2,6.615
+4th Bootstrapping,293.419
+Total time for one layer [L10],2101.635
+Amortized time [L10],8.210
+Final output max abs [L10],10.941
+Attention Block,475.223
+SelfOutput,14.777
+1st Bootstrapping,285.340
+LayerNorm1,1.494
+2nd Bootstrapping,294.895
+Intermediate Linear,338.232
+GELU,29.738
+Final Linear,61.966
+3rd Bootstrapping,274.280
+LayerNorm2,6.661
+4th Bootstrapping,281.045
+Total time for one layer [L11],2063.651
+Amortized time [L11],8.061
+Final output max abs [L11],5.560
+Attention Block,369.960
+SelfOutput,17.092
+1st Bootstrapping,563.193
+LayerNorm1,2.544
+2nd Bootstrapping,542.878
+Intermediate Linear,343.277
+GELU,29.747
+Attention Block,369.868
+SelfOutput,16.490
+1st Bootstrapping,550.688
+LayerNorm1,2.594
+2nd Bootstrapping,544.906
+Intermediate Linear,351.305
+GELU,29.777
+Final Linear,60.897
+3rd Bootstrapping,551.835
+LayerNorm2,6.718
+4th Bootstrapping,532.831
+Total time for one layer [L0],3017.909
+Amortized time [L0],11.789
+Final output max abs [L0],3021.907
+Attention Block,405.479
+SelfOutput,14.918
+1st Bootstrapping,540.673
+LayerNorm1,1.341
+2nd Bootstrapping,566.472
+Intermediate Linear,354.402
+GELU,29.642
+Final Linear,63.238
+3rd Bootstrapping,565.821
+LayerNorm2,5.768
+4th Bootstrapping,533.737
+Total time for one layer [L1],3081.490
+Amortized time [L1],12.037
+Final output max abs [L1],3091.092
+Attention Block,407.696
+SelfOutput,14.710
+1st Bootstrapping,548.274
+LayerNorm1,1.348
+2nd Bootstrapping,563.765
+Intermediate Linear,353.892
+GELU,29.845
+Final Linear,62.874
+3rd Bootstrapping,566.142
+LayerNorm2,5.979
+4th Bootstrapping,546.814
+Total time for one layer [L2],3101.340
+Amortized time [L2],12.115
+Final output max abs [L2],3132.660
+Attention Block,414.543
+SelfOutput,15.009
+1st Bootstrapping,560.723
+LayerNorm1,1.371
+2nd Bootstrapping,557.157
+Intermediate Linear,342.699
+GELU,30.077
+Final Linear,63.457
+3rd Bootstrapping,574.637
+LayerNorm2,5.954
+4th Bootstrapping,552.978
+Total time for one layer [L3],3118.605
+Amortized time [L3],12.182
+Final output max abs [L3],2989.987
+Attention Block,410.961
+SelfOutput,14.870
+1st Bootstrapping,555.531
+LayerNorm1,1.349
+2nd Bootstrapping,574.203
+Intermediate Linear,351.239
+GELU,29.871
+Final Linear,63.483
+3rd Bootstrapping,575.107
+LayerNorm2,5.947
+4th Bootstrapping,560.030
+Total time for one layer [L4],3142.590
+Amortized time [L4],12.276
+Final output max abs [L4],2769.816
+Attention Block,411.918
+SelfOutput,15.027
+1st Bootstrapping,561.734
+LayerNorm1,1.326
+2nd Bootstrapping,564.114
+Intermediate Linear,346.208
+GELU,30.006
+Final Linear,62.739
+3rd Bootstrapping,584.663
+LayerNorm2,5.879
+4th Bootstrapping,571.414
+Total time for one layer [L5],3155.028
+Amortized time [L5],12.324
+Final output max abs [L5],2841.831
+Attention Block,423.889
+SelfOutput,14.845
+1st Bootstrapping,559.080
+LayerNorm1,1.371
+2nd Bootstrapping,567.811
+Intermediate Linear,353.778
+GELU,29.890
+Final Linear,63.787
+3rd Bootstrapping,571.228
+LayerNorm2,5.948
+4th Bootstrapping,544.638
+Total time for one layer [L6],3136.265
+Amortized time [L6],12.251
+Final output max abs [L6],2988.134
+Attention Block,410.483
+SelfOutput,14.825
+1st Bootstrapping,543.690
+LayerNorm1,1.381
+2nd Bootstrapping,572.971
+Intermediate Linear,345.525
+GELU,29.843
+Final Linear,60.756
+3rd Bootstrapping,562.747
+LayerNorm2,6.033
+4th Bootstrapping,547.725
+Total time for one layer [L7],3095.978
+Amortized time [L7],12.094
+Final output max abs [L7],2737.196
+Attention Block,415.267
+SelfOutput,14.648
+1st Bootstrapping,535.631
+LayerNorm1,1.347
+2nd Bootstrapping,559.642
+Intermediate Linear,361.457
+GELU,29.942
+Final Linear,60.745
+3rd Bootstrapping,560.375
+LayerNorm2,6.041
+4th Bootstrapping,549.433
+Total time for one layer [L8],3094.530
+Amortized time [L8],12.088
+Final output max abs [L8],3309.702
+Attention Block,414.855
+SelfOutput,14.843
+1st Bootstrapping,547.754
+LayerNorm1,1.366
+2nd Bootstrapping,557.059
+Intermediate Linear,345.989
+GELU,29.821
+Final Linear,61.987
+3rd Bootstrapping,563.746
+LayerNorm2,5.917
+4th Bootstrapping,545.955
+Total time for one layer [L9],3089.292
+Amortized time [L9],12.068
+Final output max abs [L9],2914.303
+Attention Block,411.831
+SelfOutput,14.902
+1st Bootstrapping,552.981
+LayerNorm1,1.358
+2nd Bootstrapping,565.770
+Intermediate Linear,359.463
+GELU,30.080
+Final Linear,63.924
+3rd Bootstrapping,566.600
+LayerNorm2,5.894
+4th Bootstrapping,537.962
+Total time for one layer [L10],3110.764
+Amortized time [L10],12.151
+Final output max abs [L10],3051.630
+Attention Block,406.300
+SelfOutput,14.718
+1st Bootstrapping,552.640
+LayerNorm1,1.343
+2nd Bootstrapping,582.650
+Intermediate Linear,346.678
+GELU,29.906
+Final Linear,62.199
+3rd Bootstrapping,562.592
+LayerNorm2,6.009
+4th Bootstrapping,547.071
+Total time for one layer [L11],3112.105
+Amortized time [L11],12.157
+Final output max abs [L11],2845.326
+Attention Block,378.428
+SelfOutput,18.208
+1st Bootstrapping,562.788
+LayerNorm1,2.620
+2nd Bootstrapping,556.559
+Intermediate Linear,363.858
+GELU,28.526
+Attention Block,376.154
+SelfOutput,17.615
+1st Bootstrapping,570.330
+LayerNorm1,2.595
+2nd Bootstrapping,560.156
+Intermediate Linear,349.010
+GELU,29.506
+Final Linear,63.553
+3rd Bootstrapping,561.512
+LayerNorm2,7.633
+4th Bootstrapping,544.854
+Total time for one layer [L0],3082.919
+Amortized time [L0],12.043
+Final output max abs [L0],9.137
+Attention Block,409.415
+SelfOutput,14.796
+1st Bootstrapping,552.467
+LayerNorm1,1.429
+2nd Bootstrapping,569.963
+Intermediate Linear,339.604
+GELU,29.515
+Final Linear,62.004
+3rd Bootstrapping,560.092
+LayerNorm2,7.632
+4th Bootstrapping,549.307
+Total time for one layer [L1],3096.224
+Amortized time [L1],12.095
+Final output max abs [L1],10.231
+Attention Block,380.620
+SelfOutput,17.045
+1st Bootstrapping,564.103
+LayerNorm1,2.486
+2nd Bootstrapping,554.381
+Intermediate Linear,352.925
+GELU,30.366
+Final Linear,60.205
+3rd Bootstrapping,560.980
+LayerNorm2,7.243
+4th Bootstrapping,534.845
+Total time for one layer [L0],3065.197
+Amortized time [L0],11.973
+Final output max abs [L0],9.681
+Attention Block,411.121
+SelfOutput,14.385
+1st Bootstrapping,552.552
+LayerNorm1,1.425
+2nd Bootstrapping,559.011
+Intermediate Linear,344.062
+GELU,29.808
+Final Linear,60.381
+3rd Bootstrapping,572.498
+LayerNorm2,6.959
+4th Bootstrapping,554.745
+Total time for one layer [L1],3106.946
+Amortized time [L1],12.137
+Final output max abs [L1],11.291
+Attention Block,411.243
+SelfOutput,14.408
+1st Bootstrapping,541.931
+LayerNorm1,1.343
+2nd Bootstrapping,562.507
+Intermediate Linear,358.396
+GELU,29.943
+Final Linear,60.965
+3rd Bootstrapping,572.522
+LayerNorm2,6.970
+4th Bootstrapping,555.485
+Total time for one layer [L2],3115.713
+Amortized time [L2],12.171
+Final output max abs [L2],14.708
+Attention Block,414.432
+SelfOutput,14.144
+1st Bootstrapping,548.850
+LayerNorm1,1.412
+2nd Bootstrapping,556.688
+Intermediate Linear,342.370
+GELU,30.234
+Final Linear,61.630
+3rd Bootstrapping,571.452
+LayerNorm2,6.887
+4th Bootstrapping,548.612
+Total time for one layer [L3],3096.713
+Amortized time [L3],12.097
+Final output max abs [L3],13.078
+Attention Block,414.437
+SelfOutput,14.552
+1st Bootstrapping,545.315
+LayerNorm1,1.336
+2nd Bootstrapping,554.601
+Intermediate Linear,340.753
+GELU,29.849
+Final Linear,60.785
+3rd Bootstrapping,573.264
+LayerNorm2,6.993
+4th Bootstrapping,571.614
+Total time for one layer [L4],3113.500
+Amortized time [L4],12.162
+Final output max abs [L4],13.238
+Attention Block,420.386
+SelfOutput,14.325
+1st Bootstrapping,563.834
+LayerNorm1,1.366
+2nd Bootstrapping,564.071
+Intermediate Linear,355.280
+GELU,29.880
+Final Linear,61.166
+3rd Bootstrapping,603.313
+LayerNorm2,6.976
+4th Bootstrapping,571.809
+Total time for one layer [L5],3192.406
+Amortized time [L5],12.470
+Final output max abs [L5],12.562
+Attention Block,429.927
+SelfOutput,14.585
+1st Bootstrapping,564.305
+LayerNorm1,1.474
+2nd Bootstrapping,569.804
+Intermediate Linear,348.013
+GELU,30.084
+Final Linear,62.093
+3rd Bootstrapping,579.895
+LayerNorm2,7.038
+4th Bootstrapping,566.230
+Total time for one layer [L6],3173.448
+Amortized time [L6],12.396
+Final output max abs [L6],10.757
+Attention Block,421.001
+SelfOutput,14.642
+1st Bootstrapping,563.316
+LayerNorm1,1.380
+2nd Bootstrapping,564.245
+Intermediate Linear,351.081
+GELU,29.999
+Final Linear,59.983
+3rd Bootstrapping,576.557
+LayerNorm2,7.100
+4th Bootstrapping,567.134
+Total time for one layer [L7],3156.440
+Amortized time [L7],12.330
+Final output max abs [L7],10.412
+Attention Block,420.008
+SelfOutput,14.330
+1st Bootstrapping,558.240
+LayerNorm1,1.391
+2nd Bootstrapping,556.716
+Intermediate Linear,352.352
+GELU,29.825
+Final Linear,60.143
+3rd Bootstrapping,565.192
+LayerNorm2,6.988
+4th Bootstrapping,565.261
+Total time for one layer [L8],3130.447
+Amortized time [L8],12.228
+Final output max abs [L8],10.232
+Attention Block,428.895
+SelfOutput,14.224
+1st Bootstrapping,553.890
+LayerNorm1,1.335
+2nd Bootstrapping,583.642
+Intermediate Linear,355.085
+GELU,29.659
+Final Linear,59.163
+3rd Bootstrapping,575.264
+LayerNorm2,7.090
+4th Bootstrapping,544.468
+Total time for one layer [L9],3152.715
+Amortized time [L9],12.315
+Final output max abs [L9],10.647
+Attention Block,416.723
+SelfOutput,14.280
+1st Bootstrapping,570.008
+LayerNorm1,1.456
+2nd Bootstrapping,561.039
+Intermediate Linear,360.222
+GELU,30.053
+Final Linear,60.098
+3rd Bootstrapping,575.377
+LayerNorm2,7.037
+4th Bootstrapping,570.757
+Total time for one layer [L10],3167.049
+Amortized time [L10],12.371
+Final output max abs [L10],11.137
+Attention Block,420.922
+SelfOutput,14.344
+1st Bootstrapping,577.493
+LayerNorm1,1.368
+2nd Bootstrapping,582.059
+Intermediate Linear,345.770
+GELU,29.833
+Final Linear,61.021
+3rd Bootstrapping,581.001
+LayerNorm2,7.054
+4th Bootstrapping,556.716
+Total time for one layer [L11],3177.581
+Amortized time [L11],12.412
+Final output max abs [L11],5.591
+Attention Block,382.531
+SelfOutput,19.630
+1st Bootstrapping,595.753
+LayerNorm1,2.661
+2nd Bootstrapping,576.120
+Intermediate Linear,374.561
+GELU,30.238
+Final Linear,68.555
+3rd Bootstrapping,591.878
+LayerNorm2,9.001
+4th Bootstrapping,567.696
+Total time for one layer [L0],3218.622
+Amortized time [L0],12.573
+Final output max abs [L0],9.681
+Attention Block,429.676
+SelfOutput,16.581
+1st Bootstrapping,562.492
+LayerNorm1,1.400
+2nd Bootstrapping,590.926
+Intermediate Linear,364.564
+GELU,29.968
+Final Linear,68.729
+3rd Bootstrapping,586.001
+LayerNorm2,8.177
+4th Bootstrapping,571.592
+Total time for one layer [L1],3230.105
+Amortized time [L1],12.618
+Final output max abs [L1],11.291
+Attention Block,424.180
+SelfOutput,16.664
+1st Bootstrapping,580.169
+LayerNorm1,1.410
+2nd Bootstrapping,577.970
+Intermediate Linear,367.601
+GELU,30.152
+Final Linear,69.141
+3rd Bootstrapping,584.608
+LayerNorm2,8.236
+4th Bootstrapping,574.581
+Total time for one layer [L2],3234.712
+Amortized time [L2],12.636
+Final output max abs [L2],14.708
+Attention Block,427.842
+SelfOutput,16.432
+1st Bootstrapping,560.806
+LayerNorm1,1.391
+2nd Bootstrapping,578.053
+Intermediate Linear,360.627
+GELU,30.181
+Final Linear,71.434
+3rd Bootstrapping,586.543
+LayerNorm2,8.201
+4th Bootstrapping,571.108
+Total time for one layer [L3],3212.619
+Amortized time [L3],12.549
+Final output max abs [L3],13.079
+Attention Block,422.990
+SelfOutput,16.534
+1st Bootstrapping,581.126
+LayerNorm1,1.510
+2nd Bootstrapping,572.928
+Intermediate Linear,358.952
+GELU,30.074
+Final Linear,68.417
+3rd Bootstrapping,575.315
+LayerNorm2,8.618
+4th Bootstrapping,587.628
+Total time for one layer [L4],3224.091
+Amortized time [L4],12.594
+Final output max abs [L4],13.238
+Attention Block,439.086
+SelfOutput,16.734
+1st Bootstrapping,582.199
+LayerNorm1,1.456
+2nd Bootstrapping,605.330
+Intermediate Linear,364.377
+GELU,29.991
+Final Linear,68.457
+3rd Bootstrapping,595.425
+LayerNorm2,8.390
+4th Bootstrapping,572.351
+Total time for one layer [L5],3283.796
+Amortized time [L5],12.827
+Final output max abs [L5],12.559
+Attention Block,438.202
+SelfOutput,16.474
+1st Bootstrapping,561.956
+LayerNorm1,1.422
+2nd Bootstrapping,591.899
+Intermediate Linear,392.928
+GELU,30.275
+Final Linear,68.663
+3rd Bootstrapping,587.560
+LayerNorm2,8.235
+4th Bootstrapping,582.549
+Total time for one layer [L6],3280.162
+Amortized time [L6],12.813
+Final output max abs [L6],10.760
+Attention Block,431.502
+SelfOutput,16.652
+1st Bootstrapping,576.511
+LayerNorm1,1.400
+2nd Bootstrapping,591.393
+Intermediate Linear,368.831
+GELU,30.598
+Final Linear,68.030
+3rd Bootstrapping,598.318
+LayerNorm2,8.570
+4th Bootstrapping,575.524
+Total time for one layer [L7],3267.328
+Amortized time [L7],12.763
+Final output max abs [L7],10.403
+Attention Block,424.513
+SelfOutput,16.378
+1st Bootstrapping,566.916
+LayerNorm1,1.416
+2nd Bootstrapping,574.153
+Intermediate Linear,365.162
+GELU,30.248
+Final Linear,67.642
+3rd Bootstrapping,588.967
+LayerNorm2,8.314
+4th Bootstrapping,578.512
+Total time for one layer [L8],3222.222
+Amortized time [L8],12.587
+Final output max abs [L8],10.214
+Attention Block,430.583
+SelfOutput,16.379
+1st Bootstrapping,564.234
+LayerNorm1,1.525
+2nd Bootstrapping,590.112
+Intermediate Linear,375.912
+GELU,30.148
+Final Linear,68.182
+3rd Bootstrapping,570.985
+LayerNorm2,8.091
+4th Bootstrapping,560.543
+Total time for one layer [L9],3216.695
+Amortized time [L9],12.565
+Final output max abs [L9],10.616
+Attention Block,421.264
+SelfOutput,16.548
+1st Bootstrapping,574.743
+LayerNorm1,1.503
+2nd Bootstrapping,573.345
+Intermediate Linear,365.397
+GELU,30.567
+Final Linear,68.539
+3rd Bootstrapping,574.370
+LayerNorm2,8.254
+4th Bootstrapping,568.521
+Total time for one layer [L10],3203.051
+Amortized time [L10],12.512
+Final output max abs [L10],11.109
+Attention Block,424.112
+SelfOutput,16.347
+1st Bootstrapping,565.502
+LayerNorm1,1.399
+2nd Bootstrapping,586.675
+Intermediate Linear,393.939
+GELU,31.082
+Final Linear,71.250
+3rd Bootstrapping,584.570
+LayerNorm2,8.128
+4th Bootstrapping,564.394
+Total time for one layer [L11],3247.397
+Amortized time [L11],12.685
+Final output max abs [L11],5.617
